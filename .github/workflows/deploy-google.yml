@@ -1,0 +1,64 @@
+name: Deploy Curvature website
+on:
+  workflow_dispatch:
+    inputs:
+      image:
+        description: Existing tested Curvature image with immutable sha256 digest
+        required: true
+        type: string
+permissions:
+  contents: read
+  id-token: write
+concurrency:
+  group: curvature-production
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment: production
+    timeout-minutes: 20
+    steps:
+      - name: Validate dedicated website image
+        env:
+          WEBSITE_IMAGE: ${{ inputs.image }}
+        run: |
+          set -euo pipefail
+          [[ "$WEBSITE_IMAGE" =~ ^us-central1-docker.pkg.dev/elegant-racer-299721/elevate/curvature-body-sculpting@sha256:[a-f0-9]{64}$ ]] || {
+            echo "Supply a tested image from the dedicated Curvature artifact path."
+            exit 1
+          }
+      - uses: google-github-actions/auth@v3
+        with:
+          project_id: elegant-racer-299721
+          workload_identity_provider: projects/484736877039/locations/global/workloadIdentityPools/elevate-github/providers/github-main
+          service_account: elevate-github-deploy@elegant-racer-299721.iam.gserviceaccount.com
+      - uses: google-github-actions/setup-gcloud@v3
+      - name: Deploy isolated service
+        env:
+          WEBSITE_IMAGE: ${{ inputs.image }}
+        run: |
+          set -euo pipefail
+          gcloud artifacts docker images describe "$WEBSITE_IMAGE" --project=elegant-racer-299721 >/dev/null
+          gcloud run deploy curvature-body-sculpting \
+            --project=elegant-racer-299721 \
+            --region=us-central1 \
+            --image="$WEBSITE_IMAGE" \
+            --cpu=1 --memory=512Mi \
+            --min-instances=0 --max-instances=1 \
+            --port=8080 --timeout=60s \
+            --no-allow-unauthenticated --quiet
+      - name: Verify service readiness
+        run: |
+          set -euo pipefail
+          gcloud run services describe curvature-body-sculpting \
+            --project=elegant-racer-299721 --region=us-central1 \
+            --format=json > service.json
+          python3 - <<'PY'
+          import json
+          s=json.load(open('service.json'))
+          ready=next((c for c in s['status']['conditions'] if c['type']=='Ready'),{})
+          assert ready.get('status')=='True', ready
+          print('Ready revision:',s['status']['latestReadyRevisionName'])
+          print('Service URL:',s['status']['url'])
+          PY
