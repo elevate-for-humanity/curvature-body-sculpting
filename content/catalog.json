@@ -1,0 +1,56 @@
+{
+  "services": [
+    {
+      "id": "body-contouring",
+      "name": "Body Contouring"
+    },
+    {
+      "id": "skin-tightening",
+      "name": "Skin Tightening"
+    },
+    {
+      "id": "cellulite-reduction",
+      "name": "Cellulite Reduction"
+    },
+    {
+      "id": "lymphatic-drainage",
+      "name": "Lymphatic Drainage"
+    },
+    {
+      "id": "body-wrap",
+      "name": "Detox Body Wrap"
+    }
+  ],
+  "roles": [
+    {
+      "id": "body-sculpting-tech",
+      "title": "Body Sculpting Technician"
+    },
+    {
+      "id": "esthetician",
+      "title": "Licensed Esthetician"
+    },
+    {
+      "id": "wellness-consultant",
+      "title": "Wellness Consultant"
+    },
+    {
+      "id": "apprentice",
+      "title": "Esthetician Apprentice"
+    }
+  ],
+  "products": [
+    {
+      "id": "meri-gold-round-10ml",
+      "name": "Meri-Gold-Round Multi-Zone Essential Oil",
+      "price_cents": 2499,
+      "active": true
+    },
+    {
+      "id": "meri-gold-round-lavender-body-soap",
+      "name": "MERI-GOLD-ROUND Lavender Body Soap",
+      "price_cents": 899,
+      "active": true
+    }
+  ]
+}
