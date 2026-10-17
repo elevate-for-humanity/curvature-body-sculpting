@@ -34,6 +34,15 @@ jobs:
           workload_identity_provider: projects/484736877039/locations/global/workloadIdentityPools/elevate-github/providers/github-main
           service_account: elevate-github-deploy@elegant-racer-299721.iam.gserviceaccount.com
       - uses: google-github-actions/setup-gcloud@v3
+      - name: Verify dedicated runtime configuration
+        run: |
+          set -euo pipefail
+          gcloud secrets versions describe latest \
+            --secret=curvature-supabase-service-role-key \
+            --project=elegant-racer-299721 >/dev/null
+          gcloud iam service-accounts describe \
+            curvature-runtime@elegant-racer-299721.iam.gserviceaccount.com \
+            --project=elegant-racer-299721 >/dev/null
       - name: Deploy isolated service
         env:
           WEBSITE_IMAGE: ${{ inputs.image }}
@@ -44,6 +53,9 @@ jobs:
             --project=elegant-racer-299721 \
             --region=us-central1 \
             --image="$WEBSITE_IMAGE" \
+            --service-account=curvature-runtime@elegant-racer-299721.iam.gserviceaccount.com \
+            --set-env-vars=SUPABASE_URL=https://pztctqvzvsitcsvdolqr.supabase.co \
+            --set-secrets=SUPABASE_SERVICE_ROLE_KEY=curvature-supabase-service-role-key:latest \
             --cpu=1 --memory=512Mi \
             --min-instances=0 --max-instances=1 \
             --port=8080 --timeout=60s \
