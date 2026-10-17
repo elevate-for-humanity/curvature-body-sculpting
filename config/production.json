@@ -1,0 +1,10 @@
+{
+  "supabaseProjectRef": "pztctqvzvsitcsvdolqr",
+  "supabaseUrl": "https://pztctqvzvsitcsvdolqr.supabase.co",
+  "googleProject": "elegant-racer-299721",
+  "googleRegion": "us-central1",
+  "cloudRunService": "curvature-body-sculpting",
+  "runtimeServiceAccount": "curvature-runtime@elegant-racer-299721.iam.gserviceaccount.com",
+  "supabaseKeySecret": "curvature-supabase-service-role-key",
+  "databaseTable": "curvature_requests"
+}
