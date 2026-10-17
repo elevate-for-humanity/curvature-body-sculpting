@@ -1,0 +1,1249 @@
+{
+  "seo": {
+    "title": "Curvature Body Sculpting | Meri-Gold-Round Essential Oil",
+    "keywords": [
+      "Curvature Body Sculpting",
+      "Meri-Gold-Round",
+      "essential oil roller",
+      "Indianapolis wellness",
+      "personal care",
+      "body butter",
+      "body oils"
+    ],
+    "description": "Shop Meri-Gold-Round Multi-Zone Essential Oil from Curvature Body Sculpting in Indianapolis."
+  },
+  "meta": {
+    "source": "combined-legacy-and-current-curvature",
+    "industry": "Beauty and wellness",
+    "siteKind": "standalone_store",
+    "generatedAt": "2026-09-12T12:26:21.447Z",
+    "organizationName": "Curvature Body Sculpting",
+    "organizationType": "Organization",
+    "requiresContentReview": true,
+    "mergedSourceWebsiteIds": [
+      "4eeced8e-d0af-4482-8c51-ccf3040a5f45",
+      "d691d7d8-73d2-4516-9950-9a31976d2330"
+    ],
+    "parisInterviewCompleted": false,
+    "legacySourceRepository": "elevateforhumanity/fix",
+    "legacySourcePath": "_archived/curvature-body-sculpting",
+    "legacyServices": [
+      {
+        "id": "body-contouring",
+        "name": "Body Contouring",
+        "tagline": "Sculpt your ideal shape",
+        "description": "Non-invasive fat reduction using advanced technology to target stubborn fat deposits. See visible results in as few as 2-4 sessions.",
+        "price": "From $199/session",
+        "duration": "60 minutes",
+        "color": "pink",
+        "benefits": [
+          "Targets stubborn fat areas",
+          "No surgery or downtime",
+          "Visible results in 2-4 weeks",
+          "Permanent fat cell reduction"
+        ],
+        "areas": [
+          "Abdomen",
+          "Love handles",
+          "Thighs",
+          "Arms",
+          "Back",
+          "Chin"
+        ]
+      },
+      {
+        "id": "skin-tightening",
+        "name": "Skin Tightening",
+        "tagline": "Firm and tone your skin",
+        "description": "Radio frequency and ultrasound treatments to stimulate collagen production and tighten loose skin.",
+        "price": "From $149/session",
+        "duration": "45 minutes",
+        "color": "blue",
+        "benefits": [
+          "Stimulates collagen production",
+          "Tightens loose skin",
+          "Reduces fine lines",
+          "No downtime required"
+        ],
+        "areas": [
+          "Face",
+          "Neck",
+          "Arms",
+          "Abdomen",
+          "Thighs"
+        ]
+      },
+      {
+        "id": "cellulite-reduction",
+        "name": "Cellulite Reduction",
+        "tagline": "Smooth and tone",
+        "description": "Advanced treatments to break down cellulite and improve skin texture for smoother, more toned appearance.",
+        "price": "From $129/session",
+        "duration": "45 minutes",
+        "color": "indigo",
+        "benefits": [
+          "Reduces cellulite appearance",
+          "Improves skin texture",
+          "Increases circulation",
+          "Long-lasting results"
+        ],
+        "areas": [
+          "Thighs",
+          "Buttocks",
+          "Abdomen",
+          "Arms"
+        ]
+      },
+      {
+        "id": "lymphatic-drainage",
+        "name": "Lymphatic Drainage",
+        "tagline": "Detox and rejuvenate",
+        "description": "Specialized massage technique to stimulate lymphatic system, reduce bloating, and improve overall wellness.",
+        "price": "From $89/session",
+        "duration": "60 minutes",
+        "color": "green",
+        "benefits": [
+          "Reduces bloating and water retention",
+          "Boosts immune system",
+          "Improves circulation",
+          "Promotes detoxification"
+        ],
+        "areas": [
+          "Full body treatment"
+        ]
+      },
+      {
+        "id": "body-wrap",
+        "name": "Detox Body Wrap",
+        "tagline": "Cleanse and contour",
+        "description": "Detoxifying body wrap treatment to help eliminate toxins, reduce inches, and improve skin appearance.",
+        "price": "From $99/session",
+        "duration": "75 minutes",
+        "color": "amber",
+        "benefits": [
+          "Temporary inch loss",
+          "Skin detoxification",
+          "Improved skin tone",
+          "Relaxation benefits"
+        ],
+        "areas": [
+          "Full body treatment"
+        ]
+      }
+    ],
+    "legacyPackages": [
+      {
+        "name": "Starter Package",
+        "sessions": 3,
+        "price": "$499",
+        "savings": "Save $98",
+        "description": "Perfect for trying body sculpting"
+      },
+      {
+        "name": "Transformation Package",
+        "sessions": 6,
+        "price": "$899",
+        "savings": "Save $295",
+        "description": "Best results for most clients",
+        "popular": true
+      },
+      {
+        "name": "Ultimate Package",
+        "sessions": 10,
+        "price": "$1,399",
+        "savings": "Save $591",
+        "description": "Maximum transformation"
+      }
+    ],
+    "legacyCareers": [
+      {
+        "id": "body-sculpting-tech",
+        "title": "Body Sculpting Technician",
+        "type": "Full-time",
+        "location": "Indianapolis, IN",
+        "salary": "$35,000 - $50,000 + Commission",
+        "description": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.",
+        "requirements": [
+          "Esthetician license or certification (or enrolled in program)",
+          "Strong customer service skills",
+          "Ability to learn new technologies",
+          "Professional appearance and demeanor"
+        ],
+        "benefits": [
+          "Paid training on all equipment",
+          "Commission on services and product sales",
+          "Health insurance after 90 days",
+          "Flexible scheduling",
+          "Career advancement opportunities"
+        ]
+      },
+      {
+        "id": "esthetician",
+        "title": "Licensed Esthetician",
+        "type": "Full-time",
+        "location": "Indianapolis, IN",
+        "salary": "$32,000 - $45,000 + Commission",
+        "description": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.",
+        "requirements": [
+          "Valid Indiana Esthetician License",
+          "Experience with facial treatments",
+          "Knowledge of skincare products",
+          "Excellent communication skills"
+        ],
+        "benefits": [
+          "Competitive base pay + commission",
+          "Product discounts",
+          "Continuing education support",
+          "Flexible scheduling"
+        ]
+      },
+      {
+        "id": "wellness-consultant",
+        "title": "Wellness Consultant",
+        "type": "Part-time",
+        "location": "Indianapolis, IN",
+        "salary": "$15 - $20/hour + Commission",
+        "description": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.",
+        "requirements": [
+          "Passion for wellness and self-care",
+          "Retail or customer service experience",
+          "Knowledge of aromatherapy and wellness products a plus",
+          "Friendly and approachable personality"
+        ],
+        "benefits": [
+          "Flexible hours",
+          "Product discounts",
+          "Commission on sales",
+          "Path to full-time"
+        ]
+      },
+      {
+        "id": "apprentice",
+        "title": "Esthetician Apprentice",
+        "type": "Full-time",
+        "location": "Indianapolis, IN",
+        "salary": "$14 - $16/hour during training",
+        "description": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.",
+        "requirements": [
+          "Enrolled in or completed esthetician program",
+          "Eager to learn",
+          "Reliable and punctual",
+          "Professional attitude"
+        ],
+        "benefits": [
+          "Paid on-the-job training",
+          "Path to technician role",
+          "Mentorship from experienced staff",
+          "Tuition assistance available"
+        ]
+      }
+    ],
+    "legacyProducts": [
+      {
+        "name": "Meri-Go-Round Calm Blend Tea",
+        "description": "Soothing herbal blend with chamomile, lavender, and passionflower",
+        "price": "$18.99"
+      },
+      {
+        "name": "Meri-Go-Round Shea Body Butter",
+        "description": "Rich, creamy shea butter infused with lavender for deep moisturizing",
+        "price": "$24.99"
+      },
+      {
+        "name": "Meri-Go-Round Essential Oil Set",
+        "description": "Collection of 6 essential oils for aromatherapy and wellness",
+        "price": "$44.99"
+      }
+    ],
+    "integrationReview": {
+      "booking": "requires_backend_reconnection",
+      "applications": "legacy_submission_was_placeholder",
+      "checkout": "existing_invoice_request_preserved"
+    }
+  },
+  "pages": [
+    {
+      "id": "curvature-home",
+      "seo": {
+        "title": "Home | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Meri-Gold-Round essential-oil care from Curvature Body Sculpting."
+      },
+      "slug": "/",
+      "title": "Home",
+      "navLabel": "Home",
+      "sections": [
+        {
+          "id": "home-hero",
+          "type": "hero",
+          "content": {
+            "text": "Discover the MERI-GOLD-ROUND personal-care collection from Curvature Body Sculpting, including Multi-Zone Essential Oil and Lavender Body Soap.",
+            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-lineup.webp",
+            "title": "One simple ritual for head-to-toe care.",
+            "eyebrow": "One oil. Whole body. Total care.",
+            "imageAlt": "Meri-Gold-Round essential-oil roller bottles and black-and-gold product packaging",
+            "buttonHref": "/shop",
+            "buttonText": "Shop now",
+            "imageTitle": "Meri-Gold-Round essential-oil collection"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-services-overview",
+          "type": "features",
+          "content": {
+            "title": "Body sculpting and wellness",
+            "items": [
+              {
+                "title": "Body Contouring",
+                "description": "Non-invasive fat reduction and body shaping treatments"
+              },
+              {
+                "title": "Skin Tightening",
+                "description": "Radio frequency and ultrasound skin firming treatments"
+              },
+              {
+                "title": "Cellulite Reduction",
+                "description": "Advanced treatments to smooth and tone skin texture"
+              },
+              {
+                "title": "Lymphatic Drainage",
+                "description": "Detoxifying massage to reduce bloating and improve circulation"
+              }
+            ]
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-services-link",
+          "type": "cta",
+          "content": {
+            "title": "Explore services and appointments",
+            "buttonText": "View services",
+            "buttonHref": "/services"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "home-benefits",
+          "type": "features",
+          "content": {
+            "items": [
+              {
+                "title": "Hair & scalp",
+                "description": "Nourishes and conditions."
+              },
+              {
+                "title": "Skin & body",
+                "description": "Hydrates and softens."
+              },
+              {
+                "title": "Massage & comfort",
+                "description": "A smooth, warming self-care ritual."
+              },
+              {
+                "title": "Daily wellness",
+                "description": "One easy roller, wherever you go."
+              }
+            ],
+            "title": "Made for your everyday routine"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "home-story",
+          "type": "image",
+          "content": {
+            "alt": "Curvature Body Sculpting Meri-Gold-Round botanical-oil campaign",
+            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/campaign.webp",
+            "title": "Made for real life",
+            "caption": "One portable formula for simple daily care.",
+            "imageTitle": "Meri-Gold-Round daily wellness campaign"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "content": {
+            "text": "Explore the essential oil and lavender body soap, review the product details, and shop the collection.",
+            "title": "Bring MERI-GOLD-ROUND into your daily care routine.",
+            "buttonHref": "/shop",
+            "buttonText": "Shop Meri-Gold-Round"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-shop",
+      "seo": {
+        "title": "Shop | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Shop MERI-GOLD-ROUND essential oil and lavender body soap."
+      },
+      "slug": "/shop",
+      "title": "Shop",
+      "navLabel": "Shop",
+      "sections": [
+        {
+          "id": "shop-products",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "id": "meri-gold-round-10ml",
+                "sku": "MGR-10ML",
+                "name": "Meri-Gold-Round Multi-Zone Essential Oil",
+                "badge": "Head-to-toe care",
+                "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-detail.webp",
+                "price": "24.99",
+                "status": "active",
+                "imageAlt": "Meri-Gold-Round 10 ML essential-oil roller in black-and-gold packaging",
+                "shippable": true,
+                "imageTitle": "Meri-Gold-Round Multi-Zone Essential Oil",
+                "description": "A 10 ML travel-ready essential-oil roller for hair, scalp, skin, body, massage, and everyday care.",
+                "imageCaption": "10 ML / 0.34 FL OZ portable roller",
+                "trackInventory": false
+              },
+              {
+                "id": "meri-gold-round-lavender-body-soap",
+                "sku": "MGR-LAV-SOAP",
+                "name": "MERI-GOLD-ROUND Lavender Body Soap",
+                "badge": "Handcrafted body care",
+                "image": "https://www.elevateforhumanity.org/images/meri-gold-round/lavender-body-soap.webp",
+                "price": "8.99",
+                "status": "active",
+                "imageAlt": "MERI-GOLD-ROUND Lavender Body Soap bar and black-and-gold carton",
+                "shippable": true,
+                "description": "A handcrafted lavender body soap made with lavender essential oil and shea butter for gentle cleansing.",
+                "trackInventory": false
+              }
+            ],
+            "title": "Shop Meri-Gold-Round"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-about",
+      "seo": {
+        "title": "About | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "About Curvature Body Sculpting and Meri-Gold-Round."
+      },
+      "slug": "/about",
+      "title": "About",
+      "navLabel": "About",
+      "sections": [
+        {
+          "id": "about-intro",
+          "type": "hero",
+          "content": {
+            "text": "Meri-Gold-Round brings hair, scalp, skin, body, massage, and daily wellness care into one portable roller.",
+            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/campaign.webp",
+            "title": "Personal care made easier.",
+            "eyebrow": "Curvature Body Sculpting",
+            "imageAlt": "Curvature Body Sculpting campaign for the Meri-Gold-Round portable oil roller",
+            "buttonHref": "/shop",
+            "buttonText": "See the product",
+            "imageTitle": "Curvature Body Sculpting personal-care campaign"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "about-values",
+          "type": "features",
+          "content": {
+            "items": [
+              {
+                "title": "Portable",
+                "description": "A compact roller made for home or travel."
+              },
+              {
+                "title": "Clearly labeled",
+                "description": "Ingredients, directions, and cautions are easy to find."
+              },
+              {
+                "title": "Simple routine",
+                "description": "One product supports multiple everyday personal-care uses."
+              }
+            ],
+            "title": "A clear, practical approach"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "about-curvature-business",
+          "type": "rich_text",
+          "content": {
+            "text": "Personal care butters and oils from an Indianapolis small business. Personal care products including body butters and oils. Curvature Body Sculpting is an Indianapolis-based small business. Contact Curvature Body Sculpting directly for current product availability and ordering information.",
+            "title": "An Indianapolis personal-care business"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-community",
+          "type": "rich_text",
+          "content": {
+            "title": "Community connections",
+            "text": "The earlier Curvature website described connections with Elevate for Humanity, VITA, and Selfish Inc. for community support and career pathways."
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-ingredients",
+      "seo": {
+        "title": "Ingredients | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Meri-Gold-Round ingredients, directions, and cautions."
+      },
+      "slug": "/ingredients",
+      "title": "Ingredients",
+      "navLabel": "Ingredients",
+      "sections": [
+        {
+          "id": "ingredients-hero",
+          "type": "hero",
+          "content": {
+            "text": "Review the ingredients, directions, and product cautions before use.",
+            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/label.webp",
+            "title": "Botanical oils, clearly labeled.",
+            "eyebrow": "Know what you use",
+            "imageAlt": "Meri-Gold-Round product label showing ingredients and directions",
+            "imageTitle": "Meri-Gold-Round ingredient label"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "ingredients-list",
+          "type": "rich_text",
+          "content": {
+            "text": "Caprylic/capric triglyceride, jojoba seed oil, argan kernel oil, coconut oil, castor seed oil, sunflower seed oil, fragrance, vitamin E, lavender oil, and tea tree leaf oil.",
+            "title": "Ingredients"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "ingredients-use",
+          "type": "rich_text",
+          "content": {
+            "text": "Roll onto desired areas and massage gently. Use only as directed on the product label.",
+            "title": "How to use"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "ingredients-caution",
+          "type": "rich_text",
+          "content": {
+            "text": "For external use only. Avoid eye contact. Discontinue use if irritation occurs. Keep out of reach of children. Consult a physician if pregnant or under medical care.",
+            "title": "Caution"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "soap-ingredients",
+          "type": "rich_text",
+          "content": {
+            "text": "Lavender essential oil and shea butter are featured ingredients. Review the actual product package for the complete ingredient list, directions, and cautions before use.",
+            "title": "Lavender Body Soap"
+          },
+          "visible": true
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-faq",
+      "seo": {
+        "title": "FAQ | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Frequently asked questions about Meri-Gold-Round."
+      },
+      "slug": "/faq",
+      "title": "FAQ",
+      "navLabel": "FAQ",
+      "sections": [
+        {
+          "id": "faq-list",
+          "type": "faq",
+          "content": {
+            "items": [
+              {
+                "answer": "Each roller contains 10 ML / 0.34 FL OZ.",
+                "question": "What size is the roller?"
+              },
+              {
+                "answer": "Meri-Gold-Round is labeled for external use on desired areas of the hair, scalp, skin, and body. Follow the product label.",
+                "question": "Where can I use it?"
+              },
+              {
+                "answer": "Add the product to your cart and submit the order request. Customer care will confirm the order and approved payment method.",
+                "question": "How do I place an order?"
+              },
+              {
+                "answer": "U.S. standard shipping is included on orders of three or more rollers.",
+                "question": "When is shipping free?"
+              },
+              {
+                "answer": "Use the Contact page or email customer care before ordering.",
+                "question": "What if I have a product or delivery question?"
+              }
+            ],
+            "title": "Frequently asked questions"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-contact",
+      "seo": {
+        "title": "Contact | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Contact Curvature Body Sculpting customer care."
+      },
+      "slug": "/contact",
+      "title": "Contact",
+      "navLabel": "Contact",
+      "sections": [
+        {
+          "id": "contact-hero",
+          "type": "rich_text",
+          "content": {
+            "text": "Questions about the product, ordering, or delivery? Send a message and include enough detail for customer care to respond.",
+            "title": "Customer care"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "contact-form",
+          "type": "contact_form",
+          "content": {
+            "title": "Send a message",
+            "fields": [
+              {
+                "name": "name",
+                "type": "text",
+                "label": "Name",
+                "required": true
+              },
+              {
+                "name": "email",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "label": "How can we help?",
+                "required": true
+              }
+            ]
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-shipping",
+      "seo": {
+        "title": "Shipping & Returns | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Shipping and return information for Curvature Body Sculpting orders."
+      },
+      "slug": "/shipping-returns",
+      "title": "Shipping & Returns",
+      "navLabel": "Shipping & Returns",
+      "sections": [
+        {
+          "id": "shipping-copy",
+          "type": "rich_text",
+          "content": {
+            "text": "Shipping availability and charges are confirmed before payment. Free U.S. standard shipping applies to orders of three or more rollers. Contact customer care before ordering if you have a delivery question.\n\nContact customer care before returning a product. Eligibility is reviewed based on the item condition and order details. Do not send a return until you receive return instructions.",
+            "title": "Shipping and returns"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "curvature-privacy",
+      "seo": {
+        "title": "Privacy | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "How Curvature Body Sculpting handles website and order information."
+      },
+      "slug": "/privacy",
+      "title": "Privacy",
+      "navLabel": "Privacy",
+      "sections": [
+        {
+          "id": "privacy-copy",
+          "type": "rich_text",
+          "content": {
+            "text": "Information submitted through this website is used to respond to inquiries, prepare requested orders, provide customer service, and operate the website. Payment information is collected only by the approved payment provider, not by this website.",
+            "title": "Privacy"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "curvature-terms",
+      "seo": {
+        "title": "Terms | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "Terms for using the Curvature Body Sculpting website and requesting orders."
+      },
+      "slug": "/terms",
+      "title": "Terms",
+      "navLabel": "Terms",
+      "sections": [
+        {
+          "id": "terms-copy",
+          "type": "rich_text",
+          "content": {
+            "text": "Product information is provided for personal-care use and is not medical advice. Prices and availability may change before an order is accepted. Orders are not final until payment and fulfillment are confirmed.",
+            "title": "Terms of sale and website use"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "curvature-services",
+      "slug": "/services",
+      "title": "Services",
+      "navLabel": "Services",
+      "showInNavigation": true,
+      "seo": {
+        "title": "Services | Curvature Body Sculpting",
+        "description": "Services from Curvature Body Sculpting.",
+        "keywords": []
+      },
+      "sections": [
+        {
+          "id": "services-review",
+          "type": "rich_text",
+          "content": {
+            "title": "Body sculpting and wellness services",
+            "text": "Services restored from the earlier website. Current availability, pricing, suitability, and treatment details require confirmation before booking."
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "body-contouring",
+          "type": "rich_text",
+          "content": {
+            "title": "Body Contouring",
+            "text": "Non-invasive fat reduction using advanced technology to target stubborn fat deposits. See visible results in as few as 2-4 sessions.\n\n60 minutes\n\nFrom $199/session\n\nBenefits listed on the earlier site: Targets stubborn fat areas; No surgery or downtime; Visible results in 2-4 weeks; Permanent fat cell reduction\n\nTreatment areas: Abdomen, Love handles, Thighs, Arms, Back, Chin"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "skin-tightening",
+          "type": "rich_text",
+          "content": {
+            "title": "Skin Tightening",
+            "text": "Radio frequency and ultrasound treatments to stimulate collagen production and tighten loose skin.\n\n45 minutes\n\nFrom $149/session\n\nBenefits listed on the earlier site: Stimulates collagen production; Tightens loose skin; Reduces fine lines; No downtime required\n\nTreatment areas: Face, Neck, Arms, Abdomen, Thighs"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "cellulite-reduction",
+          "type": "rich_text",
+          "content": {
+            "title": "Cellulite Reduction",
+            "text": "Advanced treatments to break down cellulite and improve skin texture for smoother, more toned appearance.\n\n45 minutes\n\nFrom $129/session\n\nBenefits listed on the earlier site: Reduces cellulite appearance; Improves skin texture; Increases circulation; Long-lasting results\n\nTreatment areas: Thighs, Buttocks, Abdomen, Arms"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "lymphatic-drainage",
+          "type": "rich_text",
+          "content": {
+            "title": "Lymphatic Drainage",
+            "text": "Specialized massage technique to stimulate lymphatic system, reduce bloating, and improve overall wellness.\n\n60 minutes\n\nFrom $89/session\n\nBenefits listed on the earlier site: Reduces bloating and water retention; Boosts immune system; Improves circulation; Promotes detoxification\n\nTreatment areas: Full body treatment"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "body-wrap",
+          "type": "rich_text",
+          "content": {
+            "title": "Detox Body Wrap",
+            "text": "Detoxifying body wrap treatment to help eliminate toxins, reduce inches, and improve skin appearance.\n\n75 minutes\n\nFrom $99/session\n\nBenefits listed on the earlier site: Temporary inch loss; Skin detoxification; Improved skin tone; Relaxation benefits\n\nTreatment areas: Full body treatment"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "service-packages",
+          "type": "pricing",
+          "content": {
+            "title": "Body sculpting packages",
+            "items": [
+              {
+                "title": "Starter Package",
+                "name": "Starter Package",
+                "price": "$499",
+                "description": "3 sessions. Perfect for trying body sculpting",
+                "features": [
+                  "3 sessions",
+                  "Save $98"
+                ]
+              },
+              {
+                "title": "Transformation Package",
+                "name": "Transformation Package",
+                "price": "$899",
+                "description": "6 sessions. Best results for most clients",
+                "features": [
+                  "6 sessions",
+                  "Save $295"
+                ]
+              },
+              {
+                "title": "Ultimate Package",
+                "name": "Ultimate Package",
+                "price": "$1,399",
+                "description": "10 sessions. Maximum transformation",
+                "features": [
+                  "10 sessions",
+                  "Save $591"
+                ]
+              }
+            ]
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "services-book",
+          "type": "cta",
+          "content": {
+            "title": "Discuss your treatment goals",
+            "buttonText": "Request an appointment",
+            "buttonHref": "/book-appointment"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "curvature-book-appointment",
+      "slug": "/book-appointment",
+      "title": "Appointments",
+      "navLabel": "Appointments",
+      "showInNavigation": true,
+      "seo": {
+        "title": "Appointments | Curvature Body Sculpting",
+        "description": "Appointments from Curvature Body Sculpting.",
+        "keywords": []
+      },
+      "sections": [
+        {
+          "id": "booking-intro",
+          "type": "rich_text",
+          "content": {
+            "title": "Request an appointment",
+            "text": "Contact customer care with your preferred service, date, and time. An appointment is confirmed only after the team responds. The earlier booking calendar and availability API still require reconnection."
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "booking-contact",
+          "type": "cta",
+          "content": {
+            "title": "Arrange your visit",
+            "buttonText": "Contact customer care",
+            "buttonHref": "/contact"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "curvature-careers",
+      "slug": "/careers",
+      "title": "Careers",
+      "navLabel": "Careers",
+      "showInNavigation": true,
+      "seo": {
+        "title": "Careers | Curvature Body Sculpting",
+        "description": "Careers from Curvature Body Sculpting.",
+        "keywords": []
+      },
+      "sections": [
+        {
+          "id": "careers-intro",
+          "type": "rich_text",
+          "content": {
+            "title": "Careers in body sculpting and wellness",
+            "text": "Roles and compensation below were restored from the earlier website and need confirmation before recruitment opens."
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "role-body-sculpting-tech",
+          "type": "rich_text",
+          "content": {
+            "title": "Body Sculpting Technician",
+            "text": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.\n\nFull-time · Indianapolis, IN\n\n$35,000 - $50,000 + Commission\n\nRequirements: Esthetician license or certification (or enrolled in program); Strong customer service skills; Ability to learn new technologies; Professional appearance and demeanor\n\nBenefits listed previously: Paid training on all equipment; Commission on services and product sales; Health insurance after 90 days; Flexible scheduling; Career advancement opportunities"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "role-esthetician",
+          "type": "rich_text",
+          "content": {
+            "title": "Licensed Esthetician",
+            "text": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.\n\nFull-time · Indianapolis, IN\n\n$32,000 - $45,000 + Commission\n\nRequirements: Valid Indiana Esthetician License; Experience with facial treatments; Knowledge of skincare products; Excellent communication skills\n\nBenefits listed previously: Competitive base pay + commission; Product discounts; Continuing education support; Flexible scheduling"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "role-wellness-consultant",
+          "type": "rich_text",
+          "content": {
+            "title": "Wellness Consultant",
+            "text": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.\n\nPart-time · Indianapolis, IN\n\n$15 - $20/hour + Commission\n\nRequirements: Passion for wellness and self-care; Retail or customer service experience; Knowledge of aromatherapy and wellness products a plus; Friendly and approachable personality\n\nBenefits listed previously: Flexible hours; Product discounts; Commission on sales; Path to full-time"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "role-apprentice",
+          "type": "rich_text",
+          "content": {
+            "title": "Esthetician Apprentice",
+            "text": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.\n\nFull-time · Indianapolis, IN\n\n$14 - $16/hour during training\n\nRequirements: Enrolled in or completed esthetician program; Eager to learn; Reliable and punctual; Professional attitude\n\nBenefits listed previously: Paid on-the-job training; Path to technician role; Mentorship from experienced staff; Tuition assistance available"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "careers-apply",
+          "type": "cta",
+          "content": {
+            "title": "Interested in joining the team?",
+            "buttonText": "Application information",
+            "buttonHref": "/apply"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "curvature-apply",
+      "slug": "/apply",
+      "title": "Apply",
+      "navLabel": "Apply",
+      "showInNavigation": true,
+      "seo": {
+        "title": "Apply | Curvature Body Sculpting",
+        "description": "Apply from Curvature Body Sculpting.",
+        "keywords": []
+      },
+      "sections": [
+        {
+          "id": "apply-info",
+          "type": "rich_text",
+          "content": {
+            "title": "Career inquiries",
+            "text": "Share your name, contact information, position of interest, experience, license status, and availability with customer care. The older application page displayed a success message without submitting to an API; that behavior has not been carried forward."
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "apply-contact",
+          "type": "cta",
+          "content": {
+            "title": "Contact the team about a role",
+            "buttonText": "Send an inquiry",
+            "buttonHref": "/contact"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "curvature-wellness-collection",
+      "slug": "/wellness-collection",
+      "title": "Wellness Collection",
+      "navLabel": "Wellness Collection",
+      "showInNavigation": true,
+      "seo": {
+        "title": "Wellness Collection | Curvature Body Sculpting",
+        "description": "Wellness Collection from Curvature Body Sculpting.",
+        "keywords": []
+      },
+      "sections": [
+        {
+          "id": "legacy-collection-intro",
+          "type": "rich_text",
+          "content": {
+            "title": "Earlier Meri-Go-Round collection",
+            "text": "Earlier product descriptions and prices are retained here for review. Availability and pricing must be confirmed before ordering."
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-product-0",
+          "type": "rich_text",
+          "content": {
+            "title": "Meri-Go-Round Calm Blend Tea",
+            "text": "Soothing herbal blend with chamomile, lavender, and passionflower\n\nPreviously listed price: $18.99"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-product-1",
+          "type": "rich_text",
+          "content": {
+            "title": "Meri-Go-Round Shea Body Butter",
+            "text": "Rich, creamy shea butter infused with lavender for deep moisturizing\n\nPreviously listed price: $24.99"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "legacy-product-2",
+          "type": "rich_text",
+          "content": {
+            "title": "Meri-Go-Round Essential Oil Set",
+            "text": "Collection of 6 essential oils for aromatherapy and wellness\n\nPreviously listed price: $44.99"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "current-collection",
+          "type": "cta",
+          "content": {
+            "title": "Explore the current collection",
+            "buttonText": "Shop Meri-Gold-Round",
+            "buttonHref": "/shop"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "description": "Curvature Body Sculpting wellness company and home of Meri-Gold-Round Multi-Zone Essential Oil.",
+    "contactEmail": "curvaturebodysculpting@gmail.com"
+  },
+  "contact": {
+    "email": "curvaturebodysculpting@gmail.com",
+    "address": "Indianapolis, Indiana 46220"
+  },
+  "branding": {
+    "tagline": "Nourish · Revive · Radiate",
+    "logoText": "Curvature Body Sculpting",
+    "textColor": "#171006",
+    "accentColor": "#d9ae52",
+    "primaryColor": "#9a6b18",
+    "secondaryColor": "#171006",
+    "backgroundColor": "#fffdf8"
+  },
+  "commerce": {
+    "enabled": true,
+    "currency": "USD",
+    "cartEnabled": true,
+    "termsPolicy": "Product information is provided for personal-care use and is not medical advice. Prices and availability may change before an order is accepted. Orders are not final until payment and fulfillment are confirmed.",
+    "checkoutMode": "invoice_request",
+    "returnPolicy": "Contact customer care before returning a product. Eligibility is reviewed based on the item condition and order details. Do not send a return until you receive return instructions.",
+    "supportEmail": "curvaturebodysculpting@gmail.com",
+    "privacyPolicy": "Information submitted through this website is used to respond to inquiries, prepare requested orders, provide customer service, and operate the website. Payment information is collected only by the approved payment provider, not by this website.",
+    "shippingLabel": "Free U.S. standard shipping on orders of 3 or more rollers. Other shipping is confirmed with the order.",
+    "shippingPolicy": "Shipping availability and charges are confirmed before payment. Free U.S. standard shipping applies to orders of three or more rollers. Contact customer care before ordering if you have a delivery question.",
+    "freeShippingThreshold": 74.97
+  },
+  "homepage": {
+    "features": [
+      {
+        "title": "Body Care",
+        "description": "Personal care products including body butters and oils."
+      },
+      {
+        "title": "Small Business",
+        "description": "Curvature Body Sculpting is an Indianapolis-based small business."
+      },
+      {
+        "title": "Questions or Orders",
+        "description": "Contact Curvature Body Sculpting directly for current product availability and ordering information."
+      }
+    ],
+    "heroImage": "https://www.elevateforhumanity.org/images/meri-gold-round/product-lineup.webp",
+    "heroTitle": "One simple ritual for head-to-toe care.",
+    "heroCtaHref": "/shop",
+    "heroCtaText": "Shop Meri-Gold-Round",
+    "announcement": "Free U.S. standard shipping on orders of 3 or more rollers",
+    "heroImageAlt": "Meri-Gold-Round essential-oil roller bottles and black-and-gold product packaging",
+    "heroSubtitle": "Discover Meri-Gold-Round Multi-Zone Essential Oil—a portable roller for hair, scalp, skin, body, massage, and everyday moments of care.",
+    "heroImageTitle": "Meri-Gold-Round essential-oil collection",
+    "heroImageCaption": "Portable 10 ML rollers from Curvature Body Sculpting."
+  },
+  "products": [
+    {
+      "id": "meri-gold-round-10ml",
+      "sku": "MGR-10ML",
+      "name": "Meri-Gold-Round Multi-Zone Essential Oil",
+      "badge": "Head-to-toe care",
+      "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-detail.webp",
+      "price": "24.99",
+      "status": "active",
+      "imageAlt": "Meri-Gold-Round 10 ML essential-oil roller in black-and-gold packaging",
+      "shippable": true,
+      "imageTitle": "Meri-Gold-Round Multi-Zone Essential Oil",
+      "description": "A 10 ML travel-ready essential-oil roller for hair, scalp, skin, body, massage, and everyday care.",
+      "imageCaption": "10 ML / 0.34 FL OZ portable roller",
+      "trackInventory": false
+    },
+    {
+      "id": "meri-gold-round-lavender-body-soap",
+      "sku": "MGR-LAV-SOAP",
+      "name": "MERI-GOLD-ROUND Lavender Body Soap",
+      "badge": "Handcrafted body care",
+      "image": "https://www.elevateforhumanity.org/images/meri-gold-round/lavender-body-soap.webp",
+      "price": "8.99",
+      "status": "active",
+      "imageAlt": "MERI-GOLD-ROUND Lavender Body Soap bar and black-and-gold carton",
+      "shippable": true,
+      "description": "A handcrafted lavender body soap made with lavender essential oil and shea butter for gentle cleansing.",
+      "trackInventory": false
+    }
+  ],
+  "programs": [],
+  "template": {
+    "id": "modern-tech",
+    "name": "Modern Tech",
+    "fonts": {
+      "body": "Inter",
+      "accent": "JetBrains Mono",
+      "heading": "Inter",
+      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500&display=swap"
+    },
+    "style": {
+      "shadows": "subtle",
+      "spacing": "spacious",
+      "cardStyle": "elevated",
+      "heroStyle": "minimal",
+      "buttonStyle": "solid",
+      "headerStyle": "blur",
+      "borderRadius": "lg"
+    },
+    "colors": {
+      "text": "#0f172a",
+      "error": "#ef4444",
+      "accent": "#06b6d4",
+      "border": "#e2e8f0",
+      "primary": "#6366f1",
+      "success": "#10b981",
+      "surface": "#f8fafc",
+      "warning": "#f59e0b",
+      "secondary": "#8b5cf6",
+      "textMuted": "#64748b",
+      "background": "#ffffff",
+      "surfaceAlt": "#f1f5f9",
+      "primaryDark": "#4f46e5",
+      "textOnPrimary": "#ffffff"
+    }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/services",
+      "label": "Services"
+    },
+    {
+      "href": "/shop",
+      "label": "Shop"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    },
+    {
+      "href": "/book-appointment",
+      "label": "Appointments"
+    },
+    {
+      "href": "/careers",
+      "label": "Careers"
+    },
+    {
+      "href": "/ingredients",
+      "label": "Ingredients"
+    },
+    {
+      "href": "/faq",
+      "label": "FAQ"
+    },
+    {
+      "href": "/contact",
+      "label": "Contact"
+    },
+    {
+      "href": "/shipping-returns",
+      "label": "Shipping & Returns"
+    }
+  ],
+  "schemaVersion": 2
+}
