@@ -55,3 +55,23 @@ test('admin requires verified user and explicit owner permission',async()=>{
 });
 test('disallowed browser origin blocked',async()=>{const f=fixture();assert.equal((await f.backend(request('/api/curvature/contact',contact,{Origin:'https://evil.example'}))).status,403);assert.equal(f.calls(),0);});
 test('refuses LMS database configuration',async()=>{const backend=createBackend({env:{...env,SUPABASE_URL:'https://cuxzzpsyufcewtmicszk.supabase.co'},catalog});assert.equal((await backend(request('/api/curvature/contact'))).status,503);});
+
+test('modern secret keys use the API key header without a fake bearer JWT', async () => {
+  const serverKey = 'sb_secret_test_fixture_not_a_real_key';
+  const backend = createBackend({ env: {...env, SUPABASE_SERVICE_ROLE_KEY: serverKey}, catalog, fetchImpl: async (_url, options) => {
+    assert.equal(options.headers.apikey, serverKey);
+    assert.equal(options.headers.Authorization, undefined);
+    return Response.json([]);
+  }});
+  assert.equal((await backend(new Request('https://curvature.example/readyz'))).status, 200);
+});
+
+test('legacy service-role keys retain bearer compatibility', async () => {
+  const serverKey = 'legacy-test-fixture';
+  const backend = createBackend({ env: {...env, SUPABASE_SERVICE_ROLE_KEY: serverKey}, catalog, fetchImpl: async (_url, options) => {
+    assert.equal(options.headers.apikey, serverKey);
+    assert.equal(options.headers.Authorization, 'Bearer ' + serverKey);
+    return Response.json([]);
+  }});
+  assert.equal((await backend(new Request('https://curvature.example/readyz'))).status, 200);
+});
