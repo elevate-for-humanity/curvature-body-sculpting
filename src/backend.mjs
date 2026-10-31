@@ -68,7 +68,7 @@ export function createBackend({ env, catalog, fetchImpl = fetch }) {
   // Fail closed if accidentally pointed at one of the other businesses.
   const forbidden = ['cuxzzpsyufcewtmicszk','jlqrfwxuhpzmuivdxvvz','vhulnzcfmlnsmoxixjco','ebnbeqdsuxygopetptlv'];
   const ready = /^https:\/\/[a-z0-9]+\.supabase\.co$/.test(base || '') && !!key && !forbidden.some(ref => base.includes(ref));
-  const dbHeaders = { apikey: key || '', Authorization: `Bearer ${key || ''}`, 'Content-Type': 'application/json' };
+  const dbHeaders = { apikey: key || '', ...(key?.startsWith('sb_secret_') ? {} : { Authorization: `Bearer ${key || ''}` }), 'Content-Type': 'application/json' };
   async function db(path, options = {}) {
     const response = await fetchImpl(`${base}/rest/v1/${path}`, { ...options, headers: {...dbHeaders, ...options.headers}, signal: AbortSignal.timeout(10000) });
     if (!response.ok) throw new HttpError(503, 'Request storage is unavailable');
