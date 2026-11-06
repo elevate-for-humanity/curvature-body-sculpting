@@ -41,15 +41,87 @@
   ],
   "products": [
     {
-      "id": "meri-gold-round-10ml",
-      "name": "Meri-Gold-Round Multi-Zone Essential Oil",
-      "price_cents": 2499,
+      "id": "2-oz-plant-based-essential-oil-bath-soak",
+      "name": "2 oz Plant-Based Essential Oil Bath Soak",
+      "price_cents": 1499,
       "active": true
     },
     {
-      "id": "meri-gold-round-lavender-body-soap",
-      "name": "MERI-GOLD-ROUND Lavender Body Soap",
-      "price_cents": 899,
+      "id": "herbal-foot-soak",
+      "name": "Herbal Foot Soak",
+      "price_cents": 3000,
+      "active": true
+    },
+    {
+      "id": "charcoal-turmeric-massage-bar",
+      "name": "Charcoal Turmeric Massage Bar",
+      "price_cents": 1299,
+      "active": true
+    },
+    {
+      "id": "himalayan-mineral-bath-soak-with-essential-oils",
+      "name": "Himalayan Mineral Bath Soak with Essential Oils",
+      "price_cents": 2000,
+      "active": true
+    },
+    {
+      "id": "meri-gold-round-turmeric-glycerin-soap",
+      "name": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "price_cents": 1299,
+      "active": true
+    },
+    {
+      "id": "meri-gold-round-signature-36-oil-wellness-blend",
+      "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "price_cents": 4500,
+      "active": true
+    },
+    {
+      "id": "meri-gold-round-botanical-hair-scalp-oil",
+      "name": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+      "price_cents": 4500,
+      "active": true
+    },
+    {
+      "id": "revitalizing-shampoo-conditioner",
+      "name": "Revitalizing Shampoo & Conditioner",
+      "price_cents": 2999,
+      "active": true
+    },
+    {
+      "id": "turmeric-goat-milk-soap",
+      "name": "Turmeric Goat Milk Soap",
+      "price_cents": 1699,
+      "active": true
+    },
+    {
+      "id": "coffee-exfoliating-soap-bar",
+      "name": "Coffee Exfoliating Soap Bar",
+      "price_cents": 999,
+      "active": true
+    },
+    {
+      "id": "whipped-shea-butter-with-essential-oils",
+      "name": "Whipped Shea Butter with Essential Oils",
+      "price_cents": 3500,
+      "active": true
+    },
+    {
+      "id": "yoni-bliss-vitamin-infused-soap",
+      "name": "Yoni Bliss Vitamin-Infused Soap",
+      "price_cents": 1199,
+      "active": true
+    },
+    {
+      "id": "belly-bloom-mint-ginger-tea",
+      "name": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
+      "price_cents": 1499,
+      "active": true
+    },
+    {
+      "id": "inside-outside-ritual-set",
+      "name": "Inside & Outside Ritual Set",
+      "price_cents": 5999,
       "active": true
     }
   ]

@@ -7,7 +7,7 @@ const key = '11111111-1111-4111-8111-111111111111';
 const env = {SUPABASE_URL:'https://curvaturetest.supabase.co',SUPABASE_SERVICE_ROLE_KEY:'test-only',ALLOWED_ORIGINS:'https://curvature.example',CURVATURE_ADMIN_USER_IDS:'owner'};
 function fixture() {
   const rows = new Map(); let failure = false; let calls = 0;
-  const backend = createBackend({env,catalog,fetchImpl:async (url,options={}) => {
+  const backend = createBackend({env,catalog:{...catalog,products:[{...catalog.products[0],price_cents:2499},...catalog.products.slice(1)]},fetchImpl:async (url,options={}) => {
     calls++;
     if (failure) return new Response('storage down',{status:500});
     if (url.endsWith('/auth/v1/user')) return Response.json({id:options.headers.Authorization === 'Bearer owner-token' ? 'owner' : 'stranger'});

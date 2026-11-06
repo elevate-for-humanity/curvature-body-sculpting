@@ -13,7 +13,7 @@ createServer(async (req,res) => {
     if (['GET','HEAD'].includes(req.method) && !url.pathname.startsWith('/api/') && !['/healthz','/readyz'].includes(url.pathname)) {
       const asset=assets.get(url.pathname);
       const html=asset ? null : renderWebsite(url.pathname,draft,catalog);
-      const headers={'Content-Type':asset?asset.type:'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https://www.elevateforhumanity.org; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"};
+      const headers={'Content-Type':asset?asset.type:'text/html; charset=utf-8','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin','Content-Security-Policy':"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https://www.elevateforhumanity.org https://cdn.shopify.com; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'"};
       res.writeHead(asset||html?200:404,headers);res.end(req.method==='HEAD'?'':asset?.body||html||'Page not found');return;
     }
     const chunks = [];

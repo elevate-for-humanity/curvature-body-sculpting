@@ -1,380 +1,89 @@
 {
   "seo": {
-    "title": "Curvature Body Sculpting | Meri-Gold-Round Essential Oil",
+    "title": "Meri-Gold-Round | Botanical Wellness, Skin & Hair Care",
     "keywords": [
-      "Curvature Body Sculpting",
       "Meri-Gold-Round",
-      "essential oil roller",
-      "Indianapolis wellness",
-      "personal care",
-      "body butter",
-      "body oils"
+      "botanical wellness",
+      "wellness oil",
+      "turmeric glycerin soap",
+      "hair and scalp oil",
+      "Curvature Body Sculpting"
     ],
-    "description": "Shop Meri-Gold-Round Multi-Zone Essential Oil from Curvature Body Sculpting in Indianapolis."
-  },
-  "meta": {
-    "source": "combined-legacy-and-current-curvature",
-    "industry": "Beauty and wellness",
-    "siteKind": "standalone_store",
-    "generatedAt": "2026-09-12T12:26:21.447Z",
-    "organizationName": "Curvature Body Sculpting",
-    "organizationType": "Organization",
-    "requiresContentReview": true,
-    "mergedSourceWebsiteIds": [
-      "4eeced8e-d0af-4482-8c51-ccf3040a5f45",
-      "d691d7d8-73d2-4516-9950-9a31976d2330"
-    ],
-    "parisInterviewCompleted": false,
-    "legacySourceRepository": "elevateforhumanity/fix",
-    "legacySourcePath": "_archived/curvature-body-sculpting",
-    "legacyServices": [
-      {
-        "id": "body-contouring",
-        "name": "Body Contouring",
-        "tagline": "Sculpt your ideal shape",
-        "description": "Non-invasive fat reduction using advanced technology to target stubborn fat deposits. See visible results in as few as 2-4 sessions.",
-        "price": "From $199/session",
-        "duration": "60 minutes",
-        "color": "pink",
-        "benefits": [
-          "Targets stubborn fat areas",
-          "No surgery or downtime",
-          "Visible results in 2-4 weeks",
-          "Permanent fat cell reduction"
-        ],
-        "areas": [
-          "Abdomen",
-          "Love handles",
-          "Thighs",
-          "Arms",
-          "Back",
-          "Chin"
-        ]
-      },
-      {
-        "id": "skin-tightening",
-        "name": "Skin Tightening",
-        "tagline": "Firm and tone your skin",
-        "description": "Radio frequency and ultrasound treatments to stimulate collagen production and tighten loose skin.",
-        "price": "From $149/session",
-        "duration": "45 minutes",
-        "color": "blue",
-        "benefits": [
-          "Stimulates collagen production",
-          "Tightens loose skin",
-          "Reduces fine lines",
-          "No downtime required"
-        ],
-        "areas": [
-          "Face",
-          "Neck",
-          "Arms",
-          "Abdomen",
-          "Thighs"
-        ]
-      },
-      {
-        "id": "cellulite-reduction",
-        "name": "Cellulite Reduction",
-        "tagline": "Smooth and tone",
-        "description": "Advanced treatments to break down cellulite and improve skin texture for smoother, more toned appearance.",
-        "price": "From $129/session",
-        "duration": "45 minutes",
-        "color": "indigo",
-        "benefits": [
-          "Reduces cellulite appearance",
-          "Improves skin texture",
-          "Increases circulation",
-          "Long-lasting results"
-        ],
-        "areas": [
-          "Thighs",
-          "Buttocks",
-          "Abdomen",
-          "Arms"
-        ]
-      },
-      {
-        "id": "lymphatic-drainage",
-        "name": "Lymphatic Drainage",
-        "tagline": "Detox and rejuvenate",
-        "description": "Specialized massage technique to stimulate lymphatic system, reduce bloating, and improve overall wellness.",
-        "price": "From $89/session",
-        "duration": "60 minutes",
-        "color": "green",
-        "benefits": [
-          "Reduces bloating and water retention",
-          "Boosts immune system",
-          "Improves circulation",
-          "Promotes detoxification"
-        ],
-        "areas": [
-          "Full body treatment"
-        ]
-      },
-      {
-        "id": "body-wrap",
-        "name": "Detox Body Wrap",
-        "tagline": "Cleanse and contour",
-        "description": "Detoxifying body wrap treatment to help eliminate toxins, reduce inches, and improve skin appearance.",
-        "price": "From $99/session",
-        "duration": "75 minutes",
-        "color": "amber",
-        "benefits": [
-          "Temporary inch loss",
-          "Skin detoxification",
-          "Improved skin tone",
-          "Relaxation benefits"
-        ],
-        "areas": [
-          "Full body treatment"
-        ]
-      }
-    ],
-    "legacyPackages": [
-      {
-        "name": "Starter Package",
-        "sessions": 3,
-        "price": "$499",
-        "savings": "Save $98",
-        "description": "Perfect for trying body sculpting"
-      },
-      {
-        "name": "Transformation Package",
-        "sessions": 6,
-        "price": "$899",
-        "savings": "Save $295",
-        "description": "Best results for most clients",
-        "popular": true
-      },
-      {
-        "name": "Ultimate Package",
-        "sessions": 10,
-        "price": "$1,399",
-        "savings": "Save $591",
-        "description": "Maximum transformation"
-      }
-    ],
-    "legacyCareers": [
-      {
-        "id": "body-sculpting-tech",
-        "title": "Body Sculpting Technician",
-        "type": "Full-time",
-        "location": "Indianapolis, IN",
-        "salary": "$35,000 - $50,000 + Commission",
-        "description": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.",
-        "requirements": [
-          "Esthetician license or certification (or enrolled in program)",
-          "Strong customer service skills",
-          "Ability to learn new technologies",
-          "Professional appearance and demeanor"
-        ],
-        "benefits": [
-          "Paid training on all equipment",
-          "Commission on services and product sales",
-          "Health insurance after 90 days",
-          "Flexible scheduling",
-          "Career advancement opportunities"
-        ]
-      },
-      {
-        "id": "esthetician",
-        "title": "Licensed Esthetician",
-        "type": "Full-time",
-        "location": "Indianapolis, IN",
-        "salary": "$32,000 - $45,000 + Commission",
-        "description": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.",
-        "requirements": [
-          "Valid Indiana Esthetician License",
-          "Experience with facial treatments",
-          "Knowledge of skincare products",
-          "Excellent communication skills"
-        ],
-        "benefits": [
-          "Competitive base pay + commission",
-          "Product discounts",
-          "Continuing education support",
-          "Flexible scheduling"
-        ]
-      },
-      {
-        "id": "wellness-consultant",
-        "title": "Wellness Consultant",
-        "type": "Part-time",
-        "location": "Indianapolis, IN",
-        "salary": "$15 - $20/hour + Commission",
-        "description": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.",
-        "requirements": [
-          "Passion for wellness and self-care",
-          "Retail or customer service experience",
-          "Knowledge of aromatherapy and wellness products a plus",
-          "Friendly and approachable personality"
-        ],
-        "benefits": [
-          "Flexible hours",
-          "Product discounts",
-          "Commission on sales",
-          "Path to full-time"
-        ]
-      },
-      {
-        "id": "apprentice",
-        "title": "Esthetician Apprentice",
-        "type": "Full-time",
-        "location": "Indianapolis, IN",
-        "salary": "$14 - $16/hour during training",
-        "description": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.",
-        "requirements": [
-          "Enrolled in or completed esthetician program",
-          "Eager to learn",
-          "Reliable and punctual",
-          "Professional attitude"
-        ],
-        "benefits": [
-          "Paid on-the-job training",
-          "Path to technician role",
-          "Mentorship from experienced staff",
-          "Tuition assistance available"
-        ]
-      }
-    ],
-    "legacyProducts": [
-      {
-        "name": "Meri-Go-Round Calm Blend Tea",
-        "description": "Soothing herbal blend with chamomile, lavender, and passionflower",
-        "price": "$18.99"
-      },
-      {
-        "name": "Meri-Go-Round Shea Body Butter",
-        "description": "Rich, creamy shea butter infused with lavender for deep moisturizing",
-        "price": "$24.99"
-      },
-      {
-        "name": "Meri-Go-Round Essential Oil Set",
-        "description": "Collection of 6 essential oils for aromatherapy and wellness",
-        "price": "$44.99"
-      }
-    ],
-    "integrationReview": {
-      "booking": "requires_backend_reconnection",
-      "applications": "legacy_submission_was_placeholder",
-      "checkout": "existing_invoice_request_preserved"
-    }
+    "description": "Shop the Meri-Gold-Round botanical wellness collection from Curvature Body Sculpting, including signature wellness oil, turmeric glycerin soap and hair and scalp oil."
   },
   "pages": [
     {
-      "id": "curvature-home",
+      "id": "page_home",
       "seo": {
-        "title": "Home | Curvature Body Sculpting",
-        "keywords": [],
-        "description": "Meri-Gold-Round essential-oil care from Curvature Body Sculpting."
+        "title": "Meri-Gold-Round | Botanical Wellness, Skin & Hair Care",
+        "keywords": [
+          "Meri-Gold-Round",
+          "botanical wellness",
+          "wellness oil",
+          "turmeric glycerin soap",
+          "hair and scalp oil",
+          "Curvature Body Sculpting"
+        ],
+        "description": "Shop the Meri-Gold-Round botanical wellness collection from Curvature Body Sculpting, including signature wellness oil, turmeric glycerin soap and hair and scalp oil."
       },
       "slug": "/",
       "title": "Home",
       "navLabel": "Home",
       "sections": [
         {
-          "id": "home-hero",
+          "id": "home_hero",
           "type": "hero",
           "content": {
-            "text": "Discover the MERI-GOLD-ROUND personal-care collection from Curvature Body Sculpting, including Multi-Zone Essential Oil and Lavender Body Soap.",
-            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-lineup.webp",
-            "title": "One simple ritual for head-to-toe care.",
-            "eyebrow": "One oil. Whole body. Total care.",
-            "imageAlt": "Meri-Gold-Round essential-oil roller bottles and black-and-gold product packaging",
+            "text": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials\u2014thoughtfully presented for simple, consistent self-care.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "title": "Make wellness part of your everyday round",
+            "eyebrow": "Plant-based rituals for body, hair and everyday wellness",
+            "imageAlt": "Meri-Gold-Round botanical wellness collection",
             "buttonHref": "/shop",
-            "buttonText": "Shop now",
-            "imageTitle": "Meri-Gold-Round essential-oil collection"
+            "buttonText": "Shop the Meri-Gold-Round Collection"
           },
           "visible": true,
-          "settings": {}
+          "settings": {
+            "imageFit": "contain"
+          }
         },
         {
-          "id": "legacy-services-overview",
-          "type": "features",
-          "content": {
-            "title": "Body sculpting and wellness",
-            "items": [
-              {
-                "title": "Body Contouring",
-                "description": "Non-invasive fat reduction and body shaping treatments"
-              },
-              {
-                "title": "Skin Tightening",
-                "description": "Radio frequency and ultrasound skin firming treatments"
-              },
-              {
-                "title": "Cellulite Reduction",
-                "description": "Advanced treatments to smooth and tone skin texture"
-              },
-              {
-                "title": "Lymphatic Drainage",
-                "description": "Detoxifying massage to reduce bloating and improve circulation"
-              }
-            ]
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "legacy-services-link",
-          "type": "cta",
-          "content": {
-            "title": "Explore services and appointments",
-            "buttonText": "View services",
-            "buttonHref": "/services"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "home-benefits",
+          "id": "home_features",
           "type": "features",
           "content": {
             "items": [
               {
-                "title": "Hair & scalp",
-                "description": "Nourishes and conditions."
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "title": "Signature botanical blend",
+                "imageAlt": "Signature botanical blend",
+                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
               },
               {
-                "title": "Skin & body",
-                "description": "Hydrates and softens."
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "title": "Skin-care essentials",
+                "imageAlt": "Skin-care essentials",
+                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
               },
               {
-                "title": "Massage & comfort",
-                "description": "A smooth, warming self-care ritual."
-              },
-              {
-                "title": "Daily wellness",
-                "description": "One easy roller, wherever you go."
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+                "title": "Hair and scalp care",
+                "imageAlt": "Hair and scalp care",
+                "description": "Condition the scalp and support healthy-looking shine with a botanical hair oil."
               }
             ],
-            "title": "Made for your everyday routine"
+            "title": "Featured collection"
           },
           "visible": true,
           "settings": {}
         },
         {
-          "id": "home-story",
-          "type": "image",
-          "content": {
-            "alt": "Curvature Body Sculpting Meri-Gold-Round botanical-oil campaign",
-            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/campaign.webp",
-            "title": "Made for real life",
-            "caption": "One portable formula for simple daily care.",
-            "imageTitle": "Meri-Gold-Round daily wellness campaign"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "home-cta",
+          "id": "home_cta",
           "type": "cta",
           "content": {
-            "text": "Explore the essential oil and lavender body soap, review the product details, and shop the collection.",
-            "title": "Bring MERI-GOLD-ROUND into your daily care routine.",
+            "text": "Explore botanical body, hair and skin-care products from the Meri-Gold-Round collection.",
+            "title": "Build your everyday wellness ritual",
             "buttonHref": "/shop",
-            "buttonText": "Shop Meri-Gold-Round"
+            "buttonText": "Shop the collection"
           },
           "visible": true,
           "settings": {}
@@ -383,51 +92,312 @@
       "showInNavigation": true
     },
     {
-      "id": "curvature-shop",
+      "id": "page_shop",
       "seo": {
-        "title": "Shop | Curvature Body Sculpting",
-        "keywords": [],
-        "description": "Shop MERI-GOLD-ROUND essential oil and lavender body soap."
+        "title": "Shop Meri-Gold-Round",
+        "keywords": [
+          "Meri-Gold-Round",
+          "botanical wellness",
+          "wellness oil",
+          "turmeric glycerin soap",
+          "hair and scalp oil",
+          "Curvature Body Sculpting"
+        ],
+        "description": "Shop Meri-Gold-Round botanical wellness, skin-care and hair-care products."
       },
       "slug": "/shop",
       "title": "Shop",
       "navLabel": "Shop",
       "sections": [
         {
-          "id": "shop-products",
           "type": "products",
+          "content": {
+            "title": "Shop Meri-Gold-Round",
+            "items": [
+              {
+                "href": "/products/2-oz-plant-based-essential-oil-bath-soak",
+                "name": "2 oz Plant-Based Essential Oil Bath Soak",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865674_4841d5f7-81c5-424a-b278-2e8f31630a6e.jpg?v=1727062226",
+                "price": "14.99",
+                "imageAlt": "2 oz Plant-Based Essential Oil Bath Soak",
+                "buttonText": "View product",
+                "description": "A plant-based essential oil bath soak in a 2 oz size. Follow the directions on the product label.",
+                "id": "2-oz-plant-based-essential-oil-bath-soak"
+              },
+              {
+                "href": "/products/herbal-foot-soak",
+                "name": "Herbal Foot Soak",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/istockphoto-1155174476-612x612_36093fa7-8745-4ebf-b032-77f0dfc636b8.jpg?v=1727062621",
+                "price": "30.00",
+                "imageAlt": "Herbal Foot Soak",
+                "buttonText": "View product",
+                "description": "An herbal foot-soak product with wormwood. Follow the product label for preparation and external use.",
+                "id": "herbal-foot-soak"
+              },
+              {
+                "href": "/products/charcoal-turmeric-massage-bar",
+                "name": "Charcoal Turmeric Massage Bar",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_1ac361df-1f43-4e00-84db-fabd5cd10c33.png?v=1731634524",
+                "price": "12.99",
+                "imageAlt": "Charcoal Turmeric Massage Bar",
+                "buttonText": "View product",
+                "description": "A charcoal and turmeric massaging cleansing bar in a 4.5 oz size.",
+                "compareAtPrice": "19.99",
+                "id": "charcoal-turmeric-massage-bar"
+              },
+              {
+                "href": "/products/himalayan-mineral-bath-soak-with-essential-oils",
+                "name": "Himalayan Mineral Bath Soak with Essential Oils",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865679.jpg?v=1727057325",
+                "price": "20.00",
+                "imageAlt": "Himalayan Mineral Bath Soak with Essential Oils",
+                "buttonText": "View product",
+                "description": "A mineral bath soak with Himalayan salts and essential oils. Use as directed on the product label.",
+                "compareAtPrice": "35.00",
+                "id": "himalayan-mineral-bath-soak-with-essential-oils"
+              },
+              {
+                "href": "/products/meri-gold-round-turmeric-glycerin-soap",
+                "name": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "price": "12.99",
+                "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "buttonText": "View product",
+                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+                "compareAtPrice": "15.00",
+                "id": "meri-gold-round-turmeric-glycerin-soap"
+              },
+              {
+                "href": "/products/meri-gold-round-signature-36-oil-wellness-blend",
+                "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "price": "45.00",
+                "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "buttonText": "View product",
+                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+                "compareAtPrice": "60.00",
+                "id": "meri-gold-round-signature-36-oil-wellness-blend"
+              },
+              {
+                "href": "/products/meri-gold-round-botanical-hair-scalp-oil",
+                "name": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+                "price": "45.00",
+                "imageAlt": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+                "buttonText": "View product",
+                "description": "A botanical oil for hair and scalp care. Follow the directions supplied with the product.",
+                "compareAtPrice": "60.00",
+                "id": "meri-gold-round-botanical-hair-scalp-oil"
+              },
+              {
+                "href": "/products/revitalizing-shampoo-conditioner",
+                "name": "Revitalizing Shampoo & Conditioner",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_3d366c79-4587-4e08-9c30-2ccebb17012a.webp?v=1683024967",
+                "price": "29.99",
+                "imageAlt": "Revitalizing Shampoo & Conditioner",
+                "buttonText": "View product",
+                "description": "A shampoo and conditioner hair-care product. Follow the directions supplied with the product.",
+                "id": "revitalizing-shampoo-conditioner"
+              },
+              {
+                "href": "/products/turmeric-goat-milk-soap",
+                "name": "Turmeric Goat Milk Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_5bed8aba-0b65-453b-8f3f-da9c0337606b.png?v=1731634773",
+                "price": "16.99",
+                "imageAlt": "Turmeric Goat Milk Soap",
+                "buttonText": "View product",
+                "description": "A turmeric and goat milk cleansing soap for cosmetic skin care.",
+                "compareAtPrice": "20.00",
+                "id": "turmeric-goat-milk-soap"
+              },
+              {
+                "href": "/products/coffee-exfoliating-soap-bar",
+                "name": "Coffee Exfoliating Soap Bar",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_08342936-4675-42c9-81ae-6f6a9080c45f.png?v=1731780439",
+                "price": "9.99",
+                "imageAlt": "Coffee Exfoliating Soap Bar",
+                "buttonText": "View product",
+                "description": "A handcrafted cleansing bar with exfoliating coffee grounds and essential oils.",
+                "id": "coffee-exfoliating-soap-bar"
+              },
+              {
+                "href": "/products/whipped-shea-butter-with-essential-oils",
+                "name": "Whipped Shea Butter with Essential Oils",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "price": "35.00",
+                "imageAlt": "Whipped Shea Butter with Essential Oils",
+                "buttonText": "View product",
+                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+                "id": "whipped-shea-butter-with-essential-oils"
+              },
+              {
+                "href": "/products/yoni-bliss-vitamin-infused-soap",
+                "name": "Yoni Bliss Vitamin-Infused Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_2cc6701c-6b13-4af9-9b53-8bd020a1c014.png?v=1731634693",
+                "price": "11.99",
+                "imageAlt": "Yoni Bliss Vitamin-Infused Soap",
+                "buttonText": "View product",
+                "description": "A vitamin-infused cleansing soap. Follow the product label; external use only.",
+                "id": "yoni-bliss-vitamin-infused-soap"
+              },
+              {
+                "href": "/products/belly-bloom-mint-ginger-tea",
+                "name": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
+                "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+                "price": "14.99",
+                "category": "Botanical tea",
+                "imageAlt": "Belly Bloom Mint & Ginger Tea packaging design preview",
+                "buttonText": "View product",
+                "description": "A mint-forward botanical tea with peppermint, ginger, lemon balm, and green tea. Shown with a packaging design preview.",
+                "id": "belly-bloom-mint-ginger-tea"
+              },
+              {
+                "href": "/products/inside-outside-ritual-set",
+                "name": "Inside & Outside Ritual Set",
+                "image": "/images/meri-gold-round/inside-outside-ritual.webp",
+                "price": "59.99",
+                "category": "Ritual sets",
+                "imageAlt": "The three-piece set with Belly Bloom tea packaging artwork, Botanical Comfort Oil roll-on, and whipped shea butter",
+                "buttonText": "View set",
+                "description": "One Belly Bloom Mint & Ginger Tea, one Botanical Comfort Oil roll-on, and one Whipped Shea Butter with Essential Oils. Sip the tea for its bright peppermint and warming ginger flavor. Use the oil externally for its fresh menthol aroma and smooth glide. Finish with the rich butter for a soft feel on dry skin. Brew and apply each product according to its own label. Tea packaging shown is a design preview.",
+                "id": "inside-outside-ritual-set"
+              }
+            ]
+          },
+          "visible": true
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "page_about",
+      "seo": {
+        "title": "Our Story | Meri-Gold-Round",
+        "keywords": [
+          "Meri-Gold-Round",
+          "Curvature Body Sculpting",
+          "botanical personal care"
+        ],
+        "description": "Learn about Meri-Gold-Round, an independent botanical cosmetic and personal-care brand owned by Curvature Body Sculpting, LLC."
+      },
+      "slug": "/about",
+      "title": "Our Story",
+      "navLabel": "Our Story",
+      "sections": [
+        {
+          "id": "about_hero",
+          "type": "hero",
+          "content": {
+            "text": "Meri-Gold-Round is an independent botanical cosmetic and personal-care brand owned by Curvature Body Sculpting, LLC.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "title": "Meri-Gold-Round by Curvature Body Sculpting",
+            "eyebrow": "Our Story",
+            "imageAlt": "Meri-Gold-Round botanical wellness collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "about_values",
+          "type": "features",
           "content": {
             "items": [
               {
-                "id": "meri-gold-round-10ml",
-                "sku": "MGR-10ML",
-                "name": "Meri-Gold-Round Multi-Zone Essential Oil",
-                "badge": "Head-to-toe care",
-                "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-detail.webp",
-                "price": "24.99",
-                "status": "active",
-                "imageAlt": "Meri-Gold-Round 10 ML essential-oil roller in black-and-gold packaging",
-                "shippable": true,
-                "imageTitle": "Meri-Gold-Round Multi-Zone Essential Oil",
-                "description": "A 10 ML travel-ready essential-oil roller for hair, scalp, skin, body, massage, and everyday care.",
-                "imageCaption": "10 ML / 0.34 FL OZ portable roller",
-                "trackInventory": false
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "title": "Signature botanical blend",
+                "imageAlt": "Signature botanical blend",
+                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
               },
               {
-                "id": "meri-gold-round-lavender-body-soap",
-                "sku": "MGR-LAV-SOAP",
-                "name": "MERI-GOLD-ROUND Lavender Body Soap",
-                "badge": "Handcrafted body care",
-                "image": "https://www.elevateforhumanity.org/images/meri-gold-round/lavender-body-soap.webp",
-                "price": "8.99",
-                "status": "active",
-                "imageAlt": "MERI-GOLD-ROUND Lavender Body Soap bar and black-and-gold carton",
-                "shippable": true,
-                "description": "A handcrafted lavender body soap made with lavender essential oil and shea butter for gentle cleansing.",
-                "trackInventory": false
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "title": "Skin-care essentials",
+                "imageAlt": "Skin-care essentials",
+                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
+              },
+              {
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+                "title": "Hair and scalp care",
+                "imageAlt": "Hair and scalp care",
+                "description": "Condition the scalp and support healthy-looking shine with a botanical hair oil."
               }
             ],
-            "title": "Shop Meri-Gold-Round"
+            "title": "Made for simple, consistent self-care"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "about_meri_ritual_set",
+          "type": "cta",
+          "content": {
+            "text": "Explore the Inside & Outside Ritual, a three-piece package for $59.99.",
+            "title": "Tea, oil and butter in one set",
+            "buttonHref": "/inside-outside-ritual",
+            "buttonText": "Explore the ritual set"
+          },
+          "visible": true
+        }
+      ],
+      "showInNavigation": true
+    },
+    {
+      "id": "page_contact",
+      "seo": {
+        "title": "Contact Meri-Gold-Round",
+        "keywords": [
+          "Meri-Gold-Round contact",
+          "Curvature Body Sculpting"
+        ],
+        "description": "Contact Meri-Gold-Round and Curvature Body Sculpting about products, orders and the botanical wellness collection."
+      },
+      "slug": "/contact",
+      "title": "Contact",
+      "navLabel": "Contact",
+      "sections": [
+        {
+          "id": "contact_details",
+          "type": "rich_text",
+          "content": {
+            "text": "Questions about the collection, an order, or product availability? Contact the Meri-Gold-Round team.",
+            "email": "curvaturebodysculpting@outlook.com",
+            "hours": [
+              "Monday - Friday: 9:00 AM - 5:00 PM",
+              "Saturday: 10:00 AM - 3:00 PM",
+              "Sunday: Closed"
+            ],
+            "phone": "317-760-7908",
+            "title": "Contact Meri-Gold-Round"
+          },
+          "visible": true,
+          "settings": {}
+        },
+        {
+          "id": "contact_form",
+          "type": "contact_form",
+          "content": {
+            "title": "Send a message",
+            "fields": [
+              {
+                "name": "name",
+                "type": "text",
+                "label": "Name",
+                "required": true
+              },
+              {
+                "name": "email",
+                "type": "email",
+                "label": "Email",
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "label": "How can we help?",
+                "required": true
+              }
+            ]
           },
           "visible": true,
           "settings": {}
@@ -436,77 +406,735 @@
       "showInNavigation": true
     },
     {
-      "id": "curvature-about",
+      "id": "import_product_0",
       "seo": {
-        "title": "About | Curvature Body Sculpting",
+        "title": "2 oz Plant-Based Essential Oil Bath Soak | Curvature Body Sculpting",
         "keywords": [],
-        "description": "About Curvature Body Sculpting and Meri-Gold-Round."
+        "description": "A plant-based essential oil bath soak in a 2 oz size. Follow the directions on the product label."
       },
-      "slug": "/about",
-      "title": "About",
-      "navLabel": "About",
+      "slug": "/products/2-oz-plant-based-essential-oil-bath-soak",
+      "title": "2 oz Plant-Based Essential Oil Bath Soak",
+      "navLabel": "2 oz Plant-Based Essential Oil Bath Soak",
       "sections": [
         {
-          "id": "about-intro",
+          "id": "import_product_hero_0",
           "type": "hero",
           "content": {
-            "text": "Meri-Gold-Round brings hair, scalp, skin, body, massage, and daily wellness care into one portable roller.",
-            "image": "https://www.elevateforhumanity.org/images/meri-gold-round/campaign.webp",
-            "title": "Personal care made easier.",
-            "eyebrow": "Curvature Body Sculpting",
-            "imageAlt": "Curvature Body Sculpting campaign for the Meri-Gold-Round portable oil roller",
+            "text": "A plant-based essential oil bath soak in a 2 oz size. Follow the directions on the product label.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865674_4841d5f7-81c5-424a-b278-2e8f31630a6e.jpg?v=1727062226",
+            "title": "2 oz Plant-Based Essential Oil Bath Soak",
+            "imageAlt": "2 oz Plant-Based Essential Oil Bath Soak",
             "buttonHref": "/shop",
-            "buttonText": "See the product",
-            "imageTitle": "Curvature Body Sculpting personal-care campaign"
+            "buttonText": "Back to the collection"
           },
           "visible": true,
-          "settings": {}
+          "settings": {
+            "imageFit": "contain"
+          }
         },
         {
-          "id": "about-values",
-          "type": "features",
+          "id": "import_product_order_0",
+          "type": "products",
           "content": {
             "items": [
               {
-                "title": "Portable",
-                "description": "A compact roller made for home or travel."
-              },
-              {
-                "title": "Clearly labeled",
-                "description": "Ingredients, directions, and cautions are easy to find."
-              },
-              {
-                "title": "Simple routine",
-                "description": "One product supports multiple everyday personal-care uses."
+                "href": "/contact?product=2%20oz%20Plant-Based%20Essential%20Oil%20Bath%20Soak",
+                "name": "2 oz Plant-Based Essential Oil Bath Soak",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865674_4841d5f7-81c5-424a-b278-2e8f31630a6e.jpg?v=1727062226",
+                "price": "14.99",
+                "imageAlt": "2 oz Plant-Based Essential Oil Bath Soak",
+                "buttonText": "Ask about this product",
+                "description": "A plant-based essential oil bath soak in a 2 oz size. Follow the directions on the product label.",
+                "id": "contact?product=2%20oz%20Plant-Based%20Essential%20Oil%20Bath%20Soak"
               }
             ],
-            "title": "A clear, practical approach"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "about-curvature-business",
-          "type": "rich_text",
-          "content": {
-            "text": "Personal care butters and oils from an Indianapolis small business. Personal care products including body butters and oils. Curvature Body Sculpting is an Indianapolis-based small business. Contact Curvature Body Sculpting directly for current product availability and ordering information.",
-            "title": "An Indianapolis personal-care business"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "legacy-community",
-          "type": "rich_text",
-          "content": {
-            "title": "Community connections",
-            "text": "The earlier Curvature website described connections with Elevate for Humanity, VITA, and Selfish Inc. for community support and career pathways."
+            "title": "Product details"
           },
           "visible": true,
           "settings": {}
         }
       ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_1",
+      "seo": {
+        "title": "Herbal Foot Soak | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "An herbal foot-soak product with wormwood. Follow the product label for preparation and external use."
+      },
+      "slug": "/products/herbal-foot-soak",
+      "title": "Herbal Foot Soak",
+      "navLabel": "Herbal Foot Soak",
+      "sections": [
+        {
+          "id": "import_product_hero_1",
+          "type": "hero",
+          "content": {
+            "text": "An herbal foot-soak product with wormwood. Follow the product label for preparation and external use.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/istockphoto-1155174476-612x612_36093fa7-8745-4ebf-b032-77f0dfc636b8.jpg?v=1727062621",
+            "title": "Herbal Foot Soak",
+            "imageAlt": "Herbal Foot Soak",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_1",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Herbal%20Foot%20Soak",
+                "name": "Herbal Foot Soak",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/istockphoto-1155174476-612x612_36093fa7-8745-4ebf-b032-77f0dfc636b8.jpg?v=1727062621",
+                "price": "30.00",
+                "imageAlt": "Herbal Foot Soak",
+                "buttonText": "Ask about this product",
+                "description": "An herbal foot-soak product with wormwood. Follow the product label for preparation and external use.",
+                "id": "contact?product=Herbal%20Foot%20Soak"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_2",
+      "seo": {
+        "title": "Charcoal Turmeric Massage Bar | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A charcoal and turmeric massaging cleansing bar in a 4.5 oz size."
+      },
+      "slug": "/products/charcoal-turmeric-massage-bar",
+      "title": "Charcoal Turmeric Massage Bar",
+      "navLabel": "Charcoal Turmeric Massage Bar",
+      "sections": [
+        {
+          "id": "import_product_hero_2",
+          "type": "hero",
+          "content": {
+            "text": "A charcoal and turmeric massaging cleansing bar in a 4.5 oz size.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_1ac361df-1f43-4e00-84db-fabd5cd10c33.png?v=1731634524",
+            "title": "Charcoal Turmeric Massage Bar",
+            "imageAlt": "Charcoal Turmeric Massage Bar",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_2",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Charcoal%20Turmeric%20Massage%20Bar",
+                "name": "Charcoal Turmeric Massage Bar",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_1ac361df-1f43-4e00-84db-fabd5cd10c33.png?v=1731634524",
+                "price": "12.99",
+                "imageAlt": "Charcoal Turmeric Massage Bar",
+                "buttonText": "Ask about this product",
+                "description": "A charcoal and turmeric massaging cleansing bar in a 4.5 oz size.",
+                "compareAtPrice": "19.99",
+                "id": "contact?product=Charcoal%20Turmeric%20Massage%20Bar"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_3",
+      "seo": {
+        "title": "Himalayan Mineral Bath Soak with Essential Oils | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A mineral bath soak with Himalayan salts and essential oils. Use as directed on the product label."
+      },
+      "slug": "/products/himalayan-mineral-bath-soak-with-essential-oils",
+      "title": "Himalayan Mineral Bath Soak with Essential Oils",
+      "navLabel": "Himalayan Mineral Bath Soak with Essential Oils",
+      "sections": [
+        {
+          "id": "import_product_hero_3",
+          "type": "hero",
+          "content": {
+            "text": "A mineral bath soak with Himalayan salts and essential oils. Use as directed on the product label.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865679.jpg?v=1727057325",
+            "title": "Himalayan Mineral Bath Soak with Essential Oils",
+            "imageAlt": "Himalayan Mineral Bath Soak with Essential Oils",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_3",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Himalayan%20Mineral%20Bath%20Soak%20with%20Essential%20Oils",
+                "name": "Himalayan Mineral Bath Soak with Essential Oils",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865679.jpg?v=1727057325",
+                "price": "20.00",
+                "imageAlt": "Himalayan Mineral Bath Soak with Essential Oils",
+                "buttonText": "Ask about this product",
+                "description": "A mineral bath soak with Himalayan salts and essential oils. Use as directed on the product label.",
+                "compareAtPrice": "35.00",
+                "id": "contact?product=Himalayan%20Mineral%20Bath%20Soak%20with%20Essential%20Oils"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_4",
+      "seo": {
+        "title": "Meri-Gold-Round Turmeric Glycerin Soap | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care."
+      },
+      "slug": "/products/meri-gold-round-turmeric-glycerin-soap",
+      "title": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "navLabel": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "sections": [
+        {
+          "id": "import_product_hero_4",
+          "type": "hero",
+          "content": {
+            "text": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+            "title": "Meri-Gold-Round Turmeric Glycerin Soap",
+            "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_4",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Meri-Gold-Round%20Turmeric%20Glycerin%20Soap",
+                "name": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "price": "12.99",
+                "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "buttonText": "Ask about this product",
+                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+                "compareAtPrice": "15.00",
+                "id": "contact?product=Meri-Gold-Round%20Turmeric%20Glycerin%20Soap"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_5",
+      "seo": {
+        "title": "Meri-Gold-Round Signature 36-Oil Wellness Blend | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use."
+      },
+      "slug": "/products/meri-gold-round-signature-36-oil-wellness-blend",
+      "title": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "navLabel": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "sections": [
+        {
+          "id": "import_product_hero_5",
+          "type": "hero",
+          "content": {
+            "text": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "title": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+            "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_5",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Meri-Gold-Round%20Signature%2036-Oil%20Wellness%20Blend",
+                "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "price": "45.00",
+                "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "buttonText": "Ask about this product",
+                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+                "compareAtPrice": "60.00",
+                "id": "contact?product=Meri-Gold-Round%20Signature%2036-Oil%20Wellness%20Blend"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_6",
+      "seo": {
+        "title": "Meri-Gold-Round Botanical Hair & Scalp Oil | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A botanical oil for hair and scalp care. Follow the directions supplied with the product."
+      },
+      "slug": "/products/meri-gold-round-botanical-hair-scalp-oil",
+      "title": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+      "navLabel": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+      "sections": [
+        {
+          "id": "import_product_hero_6",
+          "type": "hero",
+          "content": {
+            "text": "A botanical oil for hair and scalp care. Follow the directions supplied with the product.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+            "title": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+            "imageAlt": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_6",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Meri-Gold-Round%20Botanical%20Hair%20%26%20Scalp%20Oil",
+                "name": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+                "price": "45.00",
+                "imageAlt": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+                "buttonText": "Ask about this product",
+                "description": "A botanical oil for hair and scalp care. Follow the directions supplied with the product.",
+                "compareAtPrice": "60.00",
+                "id": "contact?product=Meri-Gold-Round%20Botanical%20Hair%20%26%20Scalp%20Oil"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_7",
+      "seo": {
+        "title": "Revitalizing Shampoo & Conditioner | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A shampoo and conditioner hair-care product. Follow the directions supplied with the product."
+      },
+      "slug": "/products/revitalizing-shampoo-conditioner",
+      "title": "Revitalizing Shampoo & Conditioner",
+      "navLabel": "Revitalizing Shampoo & Conditioner",
+      "sections": [
+        {
+          "id": "import_product_hero_7",
+          "type": "hero",
+          "content": {
+            "text": "A shampoo and conditioner hair-care product. Follow the directions supplied with the product.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_3d366c79-4587-4e08-9c30-2ccebb17012a.webp?v=1683024967",
+            "title": "Revitalizing Shampoo & Conditioner",
+            "imageAlt": "Revitalizing Shampoo & Conditioner",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_7",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Revitalizing%20Shampoo%20%26%20Conditioner",
+                "name": "Revitalizing Shampoo & Conditioner",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_3d366c79-4587-4e08-9c30-2ccebb17012a.webp?v=1683024967",
+                "price": "29.99",
+                "imageAlt": "Revitalizing Shampoo & Conditioner",
+                "buttonText": "Ask about this product",
+                "description": "A shampoo and conditioner hair-care product. Follow the directions supplied with the product.",
+                "id": "contact?product=Revitalizing%20Shampoo%20%26%20Conditioner"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_8",
+      "seo": {
+        "title": "Turmeric Goat Milk Soap | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A turmeric and goat milk cleansing soap for cosmetic skin care."
+      },
+      "slug": "/products/turmeric-goat-milk-soap",
+      "title": "Turmeric Goat Milk Soap",
+      "navLabel": "Turmeric Goat Milk Soap",
+      "sections": [
+        {
+          "id": "import_product_hero_8",
+          "type": "hero",
+          "content": {
+            "text": "A turmeric and goat milk cleansing soap for cosmetic skin care.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_5bed8aba-0b65-453b-8f3f-da9c0337606b.png?v=1731634773",
+            "title": "Turmeric Goat Milk Soap",
+            "imageAlt": "Turmeric Goat Milk Soap",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_8",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Turmeric%20Goat%20Milk%20Soap",
+                "name": "Turmeric Goat Milk Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_5bed8aba-0b65-453b-8f3f-da9c0337606b.png?v=1731634773",
+                "price": "16.99",
+                "imageAlt": "Turmeric Goat Milk Soap",
+                "buttonText": "Ask about this product",
+                "description": "A turmeric and goat milk cleansing soap for cosmetic skin care.",
+                "compareAtPrice": "20.00",
+                "id": "contact?product=Turmeric%20Goat%20Milk%20Soap"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_9",
+      "seo": {
+        "title": "Coffee Exfoliating Soap Bar | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A handcrafted cleansing bar with exfoliating coffee grounds and essential oils."
+      },
+      "slug": "/products/coffee-exfoliating-soap-bar",
+      "title": "Coffee Exfoliating Soap Bar",
+      "navLabel": "Coffee Exfoliating Soap Bar",
+      "sections": [
+        {
+          "id": "import_product_hero_9",
+          "type": "hero",
+          "content": {
+            "text": "A handcrafted cleansing bar with exfoliating coffee grounds and essential oils.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_08342936-4675-42c9-81ae-6f6a9080c45f.png?v=1731780439",
+            "title": "Coffee Exfoliating Soap Bar",
+            "imageAlt": "Coffee Exfoliating Soap Bar",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_9",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Coffee%20Exfoliating%20Soap%20Bar",
+                "name": "Coffee Exfoliating Soap Bar",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_08342936-4675-42c9-81ae-6f6a9080c45f.png?v=1731780439",
+                "price": "9.99",
+                "imageAlt": "Coffee Exfoliating Soap Bar",
+                "buttonText": "Ask about this product",
+                "description": "A handcrafted cleansing bar with exfoliating coffee grounds and essential oils.",
+                "id": "contact?product=Coffee%20Exfoliating%20Soap%20Bar"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_10",
+      "seo": {
+        "title": "Whipped Shea Butter with Essential Oils | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care."
+      },
+      "slug": "/products/whipped-shea-butter-with-essential-oils",
+      "title": "Whipped Shea Butter with Essential Oils",
+      "navLabel": "Whipped Shea Butter with Essential Oils",
+      "sections": [
+        {
+          "id": "import_product_hero_10",
+          "type": "hero",
+          "content": {
+            "text": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+            "title": "Whipped Shea Butter with Essential Oils",
+            "imageAlt": "Whipped Shea Butter with Essential Oils",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_10",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Whipped%20Shea%20Butter%20with%20Essential%20Oils",
+                "name": "Whipped Shea Butter with Essential Oils",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "price": "35.00",
+                "imageAlt": "Whipped Shea Butter with Essential Oils",
+                "buttonText": "Ask about this product",
+                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+                "id": "contact?product=Whipped%20Shea%20Butter%20with%20Essential%20Oils"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "import_product_11",
+      "seo": {
+        "title": "Yoni Bliss Vitamin-Infused Soap | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A vitamin-infused cleansing soap. Follow the product label; external use only."
+      },
+      "slug": "/products/yoni-bliss-vitamin-infused-soap",
+      "title": "Yoni Bliss Vitamin-Infused Soap",
+      "navLabel": "Yoni Bliss Vitamin-Infused Soap",
+      "sections": [
+        {
+          "id": "import_product_hero_11",
+          "type": "hero",
+          "content": {
+            "text": "A vitamin-infused cleansing soap. Follow the product label; external use only.",
+            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_2cc6701c-6b13-4af9-9b53-8bd020a1c014.png?v=1731634693",
+            "title": "Yoni Bliss Vitamin-Infused Soap",
+            "imageAlt": "Yoni Bliss Vitamin-Infused Soap",
+            "buttonHref": "/shop",
+            "buttonText": "Back to the collection"
+          },
+          "visible": true,
+          "settings": {
+            "imageFit": "contain"
+          }
+        },
+        {
+          "id": "import_product_order_11",
+          "type": "products",
+          "content": {
+            "items": [
+              {
+                "href": "/contact?product=Yoni%20Bliss%20Vitamin-Infused%20Soap",
+                "name": "Yoni Bliss Vitamin-Infused Soap",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_2cc6701c-6b13-4af9-9b53-8bd020a1c014.png?v=1731634693",
+                "price": "11.99",
+                "imageAlt": "Yoni Bliss Vitamin-Infused Soap",
+                "buttonText": "Ask about this product",
+                "description": "A vitamin-infused cleansing soap. Follow the product label; external use only.",
+                "id": "contact?product=Yoni%20Bliss%20Vitamin-Infused%20Soap"
+              }
+            ],
+            "title": "Product details"
+          },
+          "visible": true,
+          "settings": {}
+        }
+      ],
+      "showInNavigation": false
+    },
+    {
+      "id": "rangeme_belly_bloom_tea",
+      "seo": {
+        "title": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea | Curvature Body Sculpting",
+        "keywords": [],
+        "description": "A mint-forward botanical tea with peppermint, ginger, lemon balm, and green tea. Shown with a packaging design preview."
+      },
+      "slug": "/products/belly-bloom-mint-ginger-tea",
+      "title": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
+      "navLabel": "Belly Bloom Tea",
+      "sections": [],
+      "showInNavigation": false
+    },
+    {
+      "id": "page_meri_inside_outside_ritual",
+      "seo": {
+        "title": "Inside & Outside Ritual Set | MERI-GOLD-ROUND",
+        "description": "Belly Bloom mint and ginger tea, Botanical Comfort Oil and whipped shea butter in one three-piece care ritual."
+      },
+      "slug": "/inside-outside-ritual",
+      "title": "The Inside & Outside Ritual",
+      "navLabel": "Tea, Oil & Butter Set",
+      "sections": [
+        {
+          "id": "ritual-set-intro",
+          "type": "hero",
+          "content": {
+            "text": "Put the kettle on. Let peppermint and ginger fill your cup. While the tea cools, reach for the botanical oil or the whipped shea butter. A bright, warming sip and a soft finish on your skin, all in one unhurried ritual.",
+            "title": "The Inside & Outside Ritual",
+            "eyebrow": "MERI-GOLD-ROUND \u2022 THREE-PIECE SET",
+            "buttonHref": "/products/inside-outside-ritual-set",
+            "buttonText": "Shop the three-piece set \u00b7 $59.99"
+          },
+          "visible": true
+        },
+        {
+          "id": "ritual-set-includes",
+          "type": "features",
+          "content": {
+            "items": [
+              {
+                "href": "/products/belly-bloom-mint-ginger-tea",
+                "role": "For your cup",
+                "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+                "title": "Belly Bloom Mint & Ginger Tea",
+                "imageAlt": "Belly Bloom tea packaging design preview",
+                "buttonText": "Explore the tea",
+                "description": "Brew according to the pouch directions. Peppermint leads the first sip, followed by ginger\u2019s warming spice and a soft herbal note from lemon balm. Contains green tea."
+              },
+              {
+                "role": "For external use",
+                "image": "https://rangeme.imgix.net/retail_unit/image/11511821/39c9da0a3281351e3b80b0bbb5e3dcb3-10000291691.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR%2CSave-Data&fit=max&w=960&h=960&q=100&s=40029fcab881a3347e9d40704d6924ed",
+                "title": "Botanical Comfort Oil",
+                "imageAlt": "Meri-Gold-Round Botanical Comfort Oil roll-on",
+                "description": "Use the roll-on as directed on its label. The oil glides over skin, with a refreshing peppermint and menthol aroma."
+              },
+              {
+                "href": "/products/whipped-shea-butter-with-essential-oils",
+                "role": "For external use",
+                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "title": "Whipped Shea Butter with Essential Oils",
+                "imageAlt": "Whipped shea butter with essential oils",
+                "buttonText": "Explore the butter",
+                "description": "Finish with the butter wherever its label directs. Its rich, whipped texture leaves dry-feeling skin soft to the touch."
+              }
+            ],
+            "title": "Inside the set"
+          },
+          "visible": true
+        },
+        {
+          "id": "ritual-set-contact",
+          "type": "contact_form",
+          "content": {
+            "title": "Ask about the three-piece set",
+            "fields": [
+              {
+                "name": "name",
+                "type": "text",
+                "label": "Your name",
+                "required": true
+              },
+              {
+                "name": "email",
+                "type": "email",
+                "label": "Email address",
+                "required": true
+              },
+              {
+                "name": "message",
+                "type": "textarea",
+                "label": "Ask about package sizes or availability",
+                "required": true
+              }
+            ]
+          },
+          "visible": true
+        }
+      ],
       "showInNavigation": true
+    },
+    {
+      "id": "product_meri_ritual_set",
+      "seo": {
+        "title": "Inside & Outside Ritual Set | MERI-GOLD-ROUND",
+        "description": "The three-piece tea, botanical oil and whipped shea butter package for $59.99."
+      },
+      "slug": "/products/inside-outside-ritual-set",
+      "title": "Inside & Outside Ritual Set",
+      "navLabel": "Inside & Outside Ritual Set",
+      "sections": [],
+      "showInNavigation": false
     },
     {
       "id": "curvature-ingredients",
@@ -613,59 +1241,6 @@
               }
             ],
             "title": "Frequently asked questions"
-          },
-          "visible": true,
-          "settings": {}
-        }
-      ],
-      "showInNavigation": true
-    },
-    {
-      "id": "curvature-contact",
-      "seo": {
-        "title": "Contact | Curvature Body Sculpting",
-        "keywords": [],
-        "description": "Contact Curvature Body Sculpting customer care."
-      },
-      "slug": "/contact",
-      "title": "Contact",
-      "navLabel": "Contact",
-      "sections": [
-        {
-          "id": "contact-hero",
-          "type": "rich_text",
-          "content": {
-            "text": "Questions about the product, ordering, or delivery? Send a message and include enough detail for customer care to respond.",
-            "title": "Customer care"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "contact-form",
-          "type": "contact_form",
-          "content": {
-            "title": "Send a message",
-            "fields": [
-              {
-                "name": "name",
-                "type": "text",
-                "label": "Name",
-                "required": true
-              },
-              {
-                "name": "email",
-                "type": "email",
-                "label": "Email",
-                "required": true
-              },
-              {
-                "name": "message",
-                "type": "textarea",
-                "label": "How can we help?",
-                "required": true
-              }
-            ]
           },
           "visible": true,
           "settings": {}
@@ -933,7 +1508,7 @@
           "type": "rich_text",
           "content": {
             "title": "Body Sculpting Technician",
-            "text": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.\n\nFull-time · Indianapolis, IN\n\n$35,000 - $50,000 + Commission\n\nRequirements: Esthetician license or certification (or enrolled in program); Strong customer service skills; Ability to learn new technologies; Professional appearance and demeanor\n\nBenefits listed previously: Paid training on all equipment; Commission on services and product sales; Health insurance after 90 days; Flexible scheduling; Career advancement opportunities"
+            "text": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.\n\nFull-time \u00b7 Indianapolis, IN\n\n$35,000 - $50,000 + Commission\n\nRequirements: Esthetician license or certification (or enrolled in program); Strong customer service skills; Ability to learn new technologies; Professional appearance and demeanor\n\nBenefits listed previously: Paid training on all equipment; Commission on services and product sales; Health insurance after 90 days; Flexible scheduling; Career advancement opportunities"
           },
           "visible": true,
           "settings": {}
@@ -943,7 +1518,7 @@
           "type": "rich_text",
           "content": {
             "title": "Licensed Esthetician",
-            "text": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.\n\nFull-time · Indianapolis, IN\n\n$32,000 - $45,000 + Commission\n\nRequirements: Valid Indiana Esthetician License; Experience with facial treatments; Knowledge of skincare products; Excellent communication skills\n\nBenefits listed previously: Competitive base pay + commission; Product discounts; Continuing education support; Flexible scheduling"
+            "text": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.\n\nFull-time \u00b7 Indianapolis, IN\n\n$32,000 - $45,000 + Commission\n\nRequirements: Valid Indiana Esthetician License; Experience with facial treatments; Knowledge of skincare products; Excellent communication skills\n\nBenefits listed previously: Competitive base pay + commission; Product discounts; Continuing education support; Flexible scheduling"
           },
           "visible": true,
           "settings": {}
@@ -953,7 +1528,7 @@
           "type": "rich_text",
           "content": {
             "title": "Wellness Consultant",
-            "text": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.\n\nPart-time · Indianapolis, IN\n\n$15 - $20/hour + Commission\n\nRequirements: Passion for wellness and self-care; Retail or customer service experience; Knowledge of aromatherapy and wellness products a plus; Friendly and approachable personality\n\nBenefits listed previously: Flexible hours; Product discounts; Commission on sales; Path to full-time"
+            "text": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.\n\nPart-time \u00b7 Indianapolis, IN\n\n$15 - $20/hour + Commission\n\nRequirements: Passion for wellness and self-care; Retail or customer service experience; Knowledge of aromatherapy and wellness products a plus; Friendly and approachable personality\n\nBenefits listed previously: Flexible hours; Product discounts; Commission on sales; Path to full-time"
           },
           "visible": true,
           "settings": {}
@@ -963,7 +1538,7 @@
           "type": "rich_text",
           "content": {
             "title": "Esthetician Apprentice",
-            "text": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.\n\nFull-time · Indianapolis, IN\n\n$14 - $16/hour during training\n\nRequirements: Enrolled in or completed esthetician program; Eager to learn; Reliable and punctual; Professional attitude\n\nBenefits listed previously: Paid on-the-job training; Path to technician role; Mentorship from experienced staff; Tuition assistance available"
+            "text": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.\n\nFull-time \u00b7 Indianapolis, IN\n\n$14 - $16/hour during training\n\nRequirements: Enrolled in or completed esthetician program; Eager to learn; Reliable and punctual; Professional attitude\n\nBenefits listed previously: Paid on-the-job training; Path to technician role; Mentorship from experienced staff; Tuition assistance available"
           },
           "visible": true,
           "settings": {}
@@ -1015,89 +1590,29 @@
           "settings": {}
         }
       ]
-    },
-    {
-      "id": "curvature-wellness-collection",
-      "slug": "/wellness-collection",
-      "title": "Wellness Collection",
-      "navLabel": "Wellness Collection",
-      "showInNavigation": true,
-      "seo": {
-        "title": "Wellness Collection | Curvature Body Sculpting",
-        "description": "Wellness Collection from Curvature Body Sculpting.",
-        "keywords": []
-      },
-      "sections": [
-        {
-          "id": "legacy-collection-intro",
-          "type": "rich_text",
-          "content": {
-            "title": "Earlier Meri-Go-Round collection",
-            "text": "Earlier product descriptions and prices are retained here for review. Availability and pricing must be confirmed before ordering."
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "legacy-product-0",
-          "type": "rich_text",
-          "content": {
-            "title": "Meri-Go-Round Calm Blend Tea",
-            "text": "Soothing herbal blend with chamomile, lavender, and passionflower\n\nPreviously listed price: $18.99"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "legacy-product-1",
-          "type": "rich_text",
-          "content": {
-            "title": "Meri-Go-Round Shea Body Butter",
-            "text": "Rich, creamy shea butter infused with lavender for deep moisturizing\n\nPreviously listed price: $24.99"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "legacy-product-2",
-          "type": "rich_text",
-          "content": {
-            "title": "Meri-Go-Round Essential Oil Set",
-            "text": "Collection of 6 essential oils for aromatherapy and wellness\n\nPreviously listed price: $44.99"
-          },
-          "visible": true,
-          "settings": {}
-        },
-        {
-          "id": "current-collection",
-          "type": "cta",
-          "content": {
-            "title": "Explore the current collection",
-            "buttonText": "Shop Meri-Gold-Round",
-            "buttonHref": "/shop"
-          },
-          "visible": true,
-          "settings": {}
-        }
-      ]
     }
   ],
   "footer": {
-    "description": "Curvature Body Sculpting wellness company and home of Meri-Gold-Round Multi-Zone Essential Oil.",
-    "contactEmail": "curvaturebodysculpting@gmail.com"
+    "description": "Meri-Gold-Round is an independent botanical cosmetic and personal-care brand owned by Curvature Body Sculpting, LLC.",
+    "contactEmail": "curvaturebodysculpting@outlook.com"
   },
   "contact": {
-    "email": "curvaturebodysculpting@gmail.com",
-    "address": "Indianapolis, Indiana 46220"
+    "email": "curvaturebodysculpting@outlook.com",
+    "hours": [
+      "Monday - Friday: 9:00 AM - 5:00 PM",
+      "Saturday: 10:00 AM - 3:00 PM",
+      "Sunday: Closed"
+    ],
+    "phone": "317-760-7908"
   },
   "branding": {
-    "tagline": "Nourish · Revive · Radiate",
-    "logoText": "Curvature Body Sculpting",
-    "textColor": "#171006",
-    "accentColor": "#d9ae52",
-    "primaryColor": "#9a6b18",
-    "secondaryColor": "#171006",
-    "backgroundColor": "#fffdf8"
+    "tagline": "Plant-based rituals for body, hair and everyday wellness",
+    "logoText": "Meri-Gold-Round",
+    "textColor": "#2f2530",
+    "accentColor": "#c99048",
+    "primaryColor": "#7c3f58",
+    "secondaryColor": "#6f7f56",
+    "backgroundColor": "#fffaf7"
   },
   "commerce": {
     "enabled": true,
@@ -1108,98 +1623,215 @@
     "returnPolicy": "Contact customer care before returning a product. Eligibility is reviewed based on the item condition and order details. Do not send a return until you receive return instructions.",
     "supportEmail": "curvaturebodysculpting@gmail.com",
     "privacyPolicy": "Information submitted through this website is used to respond to inquiries, prepare requested orders, provide customer service, and operate the website. Payment information is collected only by the approved payment provider, not by this website.",
-    "shippingLabel": "Free U.S. standard shipping on orders of 3 or more rollers. Other shipping is confirmed with the order.",
-    "shippingPolicy": "Shipping availability and charges are confirmed before payment. Free U.S. standard shipping applies to orders of three or more rollers. Contact customer care before ordering if you have a delivery question.",
-    "freeShippingThreshold": 74.97
+    "shippingPolicy": "Shipping availability, charges and taxes are confirmed before payment. Contact customer care before ordering if you have a delivery question."
   },
   "homepage": {
     "features": [
       {
-        "title": "Body Care",
-        "description": "Personal care products including body butters and oils."
+        "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+        "title": "Signature botanical blend",
+        "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
       },
       {
-        "title": "Small Business",
-        "description": "Curvature Body Sculpting is an Indianapolis-based small business."
+        "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+        "title": "Skin-care essentials",
+        "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
       },
       {
-        "title": "Questions or Orders",
-        "description": "Contact Curvature Body Sculpting directly for current product availability and ordering information."
+        "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+        "title": "Hair and scalp care",
+        "description": "Condition the scalp and support healthy-looking shine with a botanical hair oil."
       }
     ],
-    "heroImage": "https://www.elevateforhumanity.org/images/meri-gold-round/product-lineup.webp",
-    "heroTitle": "One simple ritual for head-to-toe care.",
+    "heroImage": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+    "heroTitle": "Make wellness part of your everyday round",
     "heroCtaHref": "/shop",
-    "heroCtaText": "Shop Meri-Gold-Round",
-    "announcement": "Free U.S. standard shipping on orders of 3 or more rollers",
-    "heroImageAlt": "Meri-Gold-Round essential-oil roller bottles and black-and-gold product packaging",
-    "heroSubtitle": "Discover Meri-Gold-Round Multi-Zone Essential Oil—a portable roller for hair, scalp, skin, body, massage, and everyday moments of care.",
-    "heroImageTitle": "Meri-Gold-Round essential-oil collection",
-    "heroImageCaption": "Portable 10 ML rollers from Curvature Body Sculpting."
+    "heroCtaText": "Shop the Meri-Gold-Round Collection",
+    "announcement": "Meri-Gold-Round \u2014 botanical cosmetic oils, body care and non-medicated soap",
+    "heroImageAlt": "Meri-Gold-Round botanical wellness collection",
+    "heroSubtitle": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials\u2014thoughtfully presented for simple, consistent self-care."
   },
   "products": [
     {
-      "id": "meri-gold-round-10ml",
-      "sku": "MGR-10ML",
-      "name": "Meri-Gold-Round Multi-Zone Essential Oil",
-      "badge": "Head-to-toe care",
-      "image": "https://www.elevateforhumanity.org/images/meri-gold-round/product-detail.webp",
-      "price": "24.99",
-      "status": "active",
-      "imageAlt": "Meri-Gold-Round 10 ML essential-oil roller in black-and-gold packaging",
-      "shippable": true,
-      "imageTitle": "Meri-Gold-Round Multi-Zone Essential Oil",
-      "description": "A 10 ML travel-ready essential-oil roller for hair, scalp, skin, body, massage, and everyday care.",
-      "imageCaption": "10 ML / 0.34 FL OZ portable roller",
-      "trackInventory": false
+      "href": "/products/2-oz-plant-based-essential-oil-bath-soak",
+      "name": "2 oz Plant-Based Essential Oil Bath Soak",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865674_4841d5f7-81c5-424a-b278-2e8f31630a6e.jpg?v=1727062226",
+      "price": "14.99",
+      "imageAlt": "2 oz Plant-Based Essential Oil Bath Soak",
+      "buttonText": "View product",
+      "description": "A plant-based essential oil bath soak in a 2 oz size. Follow the directions on the product label.",
+      "id": "2-oz-plant-based-essential-oil-bath-soak"
     },
     {
-      "id": "meri-gold-round-lavender-body-soap",
-      "sku": "MGR-LAV-SOAP",
-      "name": "MERI-GOLD-ROUND Lavender Body Soap",
-      "badge": "Handcrafted body care",
-      "image": "https://www.elevateforhumanity.org/images/meri-gold-round/lavender-body-soap.webp",
-      "price": "8.99",
-      "status": "active",
-      "imageAlt": "MERI-GOLD-ROUND Lavender Body Soap bar and black-and-gold carton",
-      "shippable": true,
-      "description": "A handcrafted lavender body soap made with lavender essential oil and shea butter for gentle cleansing.",
-      "trackInventory": false
+      "href": "/products/herbal-foot-soak",
+      "name": "Herbal Foot Soak",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/istockphoto-1155174476-612x612_36093fa7-8745-4ebf-b032-77f0dfc636b8.jpg?v=1727062621",
+      "price": "30.00",
+      "imageAlt": "Herbal Foot Soak",
+      "buttonText": "View product",
+      "description": "An herbal foot-soak product with wormwood. Follow the product label for preparation and external use.",
+      "id": "herbal-foot-soak"
+    },
+    {
+      "href": "/products/charcoal-turmeric-massage-bar",
+      "name": "Charcoal Turmeric Massage Bar",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_1ac361df-1f43-4e00-84db-fabd5cd10c33.png?v=1731634524",
+      "price": "12.99",
+      "imageAlt": "Charcoal Turmeric Massage Bar",
+      "buttonText": "View product",
+      "description": "A charcoal and turmeric massaging cleansing bar in a 4.5 oz size.",
+      "compareAtPrice": "19.99",
+      "id": "charcoal-turmeric-massage-bar"
+    },
+    {
+      "href": "/products/himalayan-mineral-bath-soak-with-essential-oils",
+      "name": "Himalayan Mineral Bath Soak with Essential Oils",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/pexels-photo-3865679.jpg?v=1727057325",
+      "price": "20.00",
+      "imageAlt": "Himalayan Mineral Bath Soak with Essential Oils",
+      "buttonText": "View product",
+      "description": "A mineral bath soak with Himalayan salts and essential oils. Use as directed on the product label.",
+      "compareAtPrice": "35.00",
+      "id": "himalayan-mineral-bath-soak-with-essential-oils"
+    },
+    {
+      "href": "/products/meri-gold-round-turmeric-glycerin-soap",
+      "name": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+      "price": "12.99",
+      "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "buttonText": "View product",
+      "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+      "compareAtPrice": "15.00",
+      "id": "meri-gold-round-turmeric-glycerin-soap"
+    },
+    {
+      "href": "/products/meri-gold-round-signature-36-oil-wellness-blend",
+      "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+      "price": "45.00",
+      "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "buttonText": "View product",
+      "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+      "compareAtPrice": "60.00",
+      "id": "meri-gold-round-signature-36-oil-wellness-blend"
+    },
+    {
+      "href": "/products/meri-gold-round-botanical-hair-scalp-oil",
+      "name": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
+      "price": "45.00",
+      "imageAlt": "Meri-Gold-Round Botanical Hair & Scalp Oil",
+      "buttonText": "View product",
+      "description": "A botanical oil for hair and scalp care. Follow the directions supplied with the product.",
+      "compareAtPrice": "60.00",
+      "id": "meri-gold-round-botanical-hair-scalp-oil"
+    },
+    {
+      "href": "/products/revitalizing-shampoo-conditioner",
+      "name": "Revitalizing Shampoo & Conditioner",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_3d366c79-4587-4e08-9c30-2ccebb17012a.webp?v=1683024967",
+      "price": "29.99",
+      "imageAlt": "Revitalizing Shampoo & Conditioner",
+      "buttonText": "View product",
+      "description": "A shampoo and conditioner hair-care product. Follow the directions supplied with the product.",
+      "id": "revitalizing-shampoo-conditioner"
+    },
+    {
+      "href": "/products/turmeric-goat-milk-soap",
+      "name": "Turmeric Goat Milk Soap",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_5bed8aba-0b65-453b-8f3f-da9c0337606b.png?v=1731634773",
+      "price": "16.99",
+      "imageAlt": "Turmeric Goat Milk Soap",
+      "buttonText": "View product",
+      "description": "A turmeric and goat milk cleansing soap for cosmetic skin care.",
+      "compareAtPrice": "20.00",
+      "id": "turmeric-goat-milk-soap"
+    },
+    {
+      "href": "/products/coffee-exfoliating-soap-bar",
+      "name": "Coffee Exfoliating Soap Bar",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_08342936-4675-42c9-81ae-6f6a9080c45f.png?v=1731780439",
+      "price": "9.99",
+      "imageAlt": "Coffee Exfoliating Soap Bar",
+      "buttonText": "View product",
+      "description": "A handcrafted cleansing bar with exfoliating coffee grounds and essential oils.",
+      "id": "coffee-exfoliating-soap-bar"
+    },
+    {
+      "href": "/products/whipped-shea-butter-with-essential-oils",
+      "name": "Whipped Shea Butter with Essential Oils",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+      "price": "35.00",
+      "imageAlt": "Whipped Shea Butter with Essential Oils",
+      "buttonText": "View product",
+      "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+      "id": "whipped-shea-butter-with-essential-oils"
+    },
+    {
+      "href": "/products/yoni-bliss-vitamin-infused-soap",
+      "name": "Yoni Bliss Vitamin-Infused Soap",
+      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_2cc6701c-6b13-4af9-9b53-8bd020a1c014.png?v=1731634693",
+      "price": "11.99",
+      "imageAlt": "Yoni Bliss Vitamin-Infused Soap",
+      "buttonText": "View product",
+      "description": "A vitamin-infused cleansing soap. Follow the product label; external use only.",
+      "id": "yoni-bliss-vitamin-infused-soap"
+    },
+    {
+      "href": "/products/belly-bloom-mint-ginger-tea",
+      "name": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
+      "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+      "price": "14.99",
+      "category": "Botanical tea",
+      "imageAlt": "Belly Bloom Mint & Ginger Tea packaging design preview",
+      "buttonText": "View product",
+      "description": "A mint-forward botanical tea with peppermint, ginger, lemon balm, and green tea. Shown with a packaging design preview.",
+      "id": "belly-bloom-mint-ginger-tea"
+    },
+    {
+      "href": "/products/inside-outside-ritual-set",
+      "name": "Inside & Outside Ritual Set",
+      "image": "/images/meri-gold-round/inside-outside-ritual.webp",
+      "price": "59.99",
+      "category": "Ritual sets",
+      "imageAlt": "The three-piece set with Belly Bloom tea packaging artwork, Botanical Comfort Oil roll-on, and whipped shea butter",
+      "buttonText": "View set",
+      "description": "One Belly Bloom Mint & Ginger Tea, one Botanical Comfort Oil roll-on, and one Whipped Shea Butter with Essential Oils. Sip the tea for its bright peppermint and warming ginger flavor. Use the oil externally for its fresh menthol aroma and smooth glide. Finish with the rich butter for a soft feel on dry skin. Brew and apply each product according to its own label. Tea packaging shown is a design preview.",
+      "id": "inside-outside-ritual-set"
     }
   ],
-  "programs": [],
   "template": {
-    "id": "modern-tech",
-    "name": "Modern Tech",
+    "id": "warm-community",
+    "name": "Warm Community",
     "fonts": {
-      "body": "Inter",
-      "accent": "JetBrains Mono",
-      "heading": "Inter",
-      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500&display=swap"
+      "body": "Nunito",
+      "heading": "Nunito",
+      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&display=swap"
     },
     "style": {
       "shadows": "subtle",
       "spacing": "spacious",
       "cardStyle": "elevated",
-      "heroStyle": "minimal",
+      "heroStyle": "split",
       "buttonStyle": "solid",
-      "headerStyle": "blur",
-      "borderRadius": "lg"
+      "headerStyle": "solid",
+      "borderRadius": "xl"
     },
     "colors": {
-      "text": "#0f172a",
-      "error": "#ef4444",
-      "accent": "#06b6d4",
-      "border": "#e2e8f0",
-      "primary": "#6366f1",
-      "success": "#10b981",
-      "surface": "#f8fafc",
-      "warning": "#f59e0b",
-      "secondary": "#8b5cf6",
-      "textMuted": "#64748b",
-      "background": "#ffffff",
-      "surfaceAlt": "#f1f5f9",
-      "primaryDark": "#4f46e5",
+      "text": "#2f2530",
+      "error": "#b91c1c",
+      "accent": "#c99048",
+      "border": "#eadbd3",
+      "primary": "#7c3f58",
+      "success": "#4f7c5d",
+      "surface": "#ffffff",
+      "warning": "#c99048",
+      "secondary": "#6f7f56",
+      "textMuted": "#6b5a63",
+      "background": "#fffaf7",
+      "surfaceAlt": "#f8eee8",
+      "primaryDark": "#5f2f43",
       "textOnPrimary": "#ffffff"
     }
   },
@@ -1209,24 +1841,20 @@
       "label": "Home"
     },
     {
-      "href": "/services",
-      "label": "Services"
-    },
-    {
       "href": "/shop",
       "label": "Shop"
     },
     {
       "href": "/about",
-      "label": "About"
+      "label": "Our Story"
     },
     {
-      "href": "/book-appointment",
-      "label": "Appointments"
+      "href": "/contact",
+      "label": "Contact"
     },
     {
-      "href": "/careers",
-      "label": "Careers"
+      "href": "/inside-outside-ritual",
+      "label": "Tea, Oil & Butter Set"
     },
     {
       "href": "/ingredients",
@@ -1237,13 +1865,29 @@
       "label": "FAQ"
     },
     {
-      "href": "/contact",
-      "label": "Contact"
-    },
-    {
       "href": "/shipping-returns",
       "label": "Shipping & Returns"
+    },
+    {
+      "href": "/services",
+      "label": "Services"
+    },
+    {
+      "href": "/book-appointment",
+      "label": "Appointments"
+    },
+    {
+      "href": "/careers",
+      "label": "Careers"
+    },
+    {
+      "href": "/apply",
+      "label": "Apply"
     }
   ],
-  "schemaVersion": 2
+  "schemaVersion": 2,
+  "meta": {
+    "source": "published-meri-gold-round-2026-11-06-with-preserved-service-inquiries",
+    "requiresContentReview": true
+  }
 }
