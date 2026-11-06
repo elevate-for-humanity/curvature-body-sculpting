@@ -1,0 +1,10 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
+import { renderWebsite } from '../src/website.mjs';
+const draft=JSON.parse(await readFile(new URL('../content/combined-site-draft.json',import.meta.url)));
+const catalog=JSON.parse(await readFile(new URL('../content/catalog.json',import.meta.url)));
+for(const page of draft.pages)test(`${page.slug} has content and one main heading`,()=>{const html=renderWebsite(page.slug,draft,catalog);assert.equal((html.match(/<h1>/g)||[]).length,1);assert.ok(html.includes('<main id="main">'));assert.ok(html.match(/<main[^>]*>([\s\S]*?)<\/main>/)[1].replace(/<[^>]+>/g,'').trim().length>80);assert.ok(!html.includes('undefined'));for(const link of draft.navigation)assert.ok(html.includes(`href="${link.href}"`));});
+test('request forms reach their real API adapter without placeholder redirects',()=>{for(const [path,kind] of [['/apply','application'],['/contact','contact'],['/book-appointment','appointment'],['/shop','invoice']]){const html=renderWebsite(path,draft,catalog);assert.ok(html.includes(`data-request-kind="${kind}"`));assert.ok(html.includes('role="status"'));assert.ok(html.includes('name="email"'));assert.ok(html.includes('required'));}});
+test('unknown routes do not masquerade as working pages',()=>assert.equal(renderWebsite('/missing',draft,catalog),null));
+test('historical careers and service results are not asserted as current offers',()=>{assert.ok(!renderWebsite('/careers',draft,catalog).includes('Health insurance after 90 days'));assert.ok(!renderWebsite('/services',draft,catalog).includes('Permanent fat cell reduction'));});
