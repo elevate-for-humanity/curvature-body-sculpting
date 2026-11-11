@@ -34,11 +34,11 @@
           "id": "home_hero",
           "type": "hero",
           "content": {
-            "text": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials\u2014thoughtfully presented for simple, consistent self-care.",
-            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "text": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials—thoughtfully presented for simple, consistent self-care. Packaging design preview; final packaging may vary.",
+            "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
             "title": "Make wellness part of your everyday round",
             "eyebrow": "Plant-based rituals for body, hair and everyday wellness",
-            "imageAlt": "Meri-Gold-Round botanical wellness collection",
+            "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
             "buttonHref": "/shop",
             "buttonText": "Shop the Meri-Gold-Round Collection"
           },
@@ -53,10 +53,10 @@
           "content": {
             "items": [
               {
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "title": "Signature botanical blend",
-                "imageAlt": "Signature botanical blend",
-                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
+                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual. Packaging design preview; final packaging may vary."
               },
               {
                 "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
@@ -170,11 +170,11 @@
               {
                 "href": "/products/meri-gold-round-signature-36-oil-wellness-blend",
                 "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "price": "45.00",
-                "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
                 "buttonText": "View product",
-                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use. Packaging design preview; final packaging may vary.",
                 "compareAtPrice": "60.00",
                 "id": "meri-gold-round-signature-36-oil-wellness-blend"
               },
@@ -223,11 +223,11 @@
               {
                 "href": "/products/whipped-shea-butter-with-essential-oils",
                 "name": "Whipped Shea Butter with Essential Oils",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "price": "35.00",
-                "imageAlt": "Whipped Shea Butter with Essential Oils",
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
                 "buttonText": "View product",
-                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care. Packaging design preview; final packaging may vary.",
                 "id": "whipped-shea-butter-with-essential-oils"
               },
               {
@@ -243,10 +243,10 @@
               {
                 "href": "/products/belly-bloom-mint-ginger-tea",
                 "name": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
-                "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/belly-bloom-packaging-preview.png",
                 "price": "14.99",
                 "category": "Botanical tea",
-                "imageAlt": "Belly Bloom Mint & Ginger Tea packaging design preview",
+                "imageAlt": "MERI-GOLD-ROUND Belly Bloom tea packaging design preview",
                 "buttonText": "View product",
                 "description": "A mint-forward botanical tea with peppermint, ginger, lemon balm, and green tea. Shown with a packaging design preview.",
                 "id": "belly-bloom-mint-ginger-tea"
@@ -288,11 +288,11 @@
           "id": "about_hero",
           "type": "hero",
           "content": {
-            "text": "Meri-Gold-Round is an independent botanical cosmetic and personal-care brand owned by Curvature Body Sculpting, LLC.",
-            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "text": "Meri-Gold-Round is an independent botanical cosmetic and personal-care brand owned by Curvature Body Sculpting, LLC. Packaging design preview; final packaging may vary.",
+            "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
             "title": "Meri-Gold-Round by Curvature Body Sculpting",
             "eyebrow": "Our Story",
-            "imageAlt": "Meri-Gold-Round botanical wellness collection"
+            "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview"
           },
           "visible": true,
           "settings": {
@@ -305,10 +305,10 @@
           "content": {
             "items": [
               {
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "title": "Signature botanical blend",
-                "imageAlt": "Signature botanical blend",
-                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
+                "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual. Packaging design preview; final packaging may vary."
               },
               {
                 "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
@@ -678,10 +678,10 @@
           "id": "import_product_hero_5",
           "type": "hero",
           "content": {
-            "text": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
-            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+            "text": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use. Packaging design preview; final packaging may vary.",
+            "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
             "title": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
-            "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+            "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
             "buttonHref": "/shop",
             "buttonText": "Back to the collection"
           },
@@ -698,11 +698,11 @@
               {
                 "href": "/contact?product=Meri-Gold-Round%20Signature%2036-Oil%20Wellness%20Blend",
                 "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "price": "45.00",
-                "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
                 "buttonText": "Ask about this product",
-                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+                "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use. Packaging design preview; final packaging may vary.",
                 "compareAtPrice": "60.00",
                 "id": "contact?product=Meri-Gold-Round%20Signature%2036-Oil%20Wellness%20Blend"
               }
@@ -936,10 +936,10 @@
           "id": "import_product_hero_10",
           "type": "hero",
           "content": {
-            "text": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
-            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+            "text": "A whipped body butter with shea butter and essential oils for cosmetic skin care. Packaging design preview; final packaging may vary.",
+            "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
             "title": "Whipped Shea Butter with Essential Oils",
-            "imageAlt": "Whipped Shea Butter with Essential Oils",
+            "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
             "buttonHref": "/shop",
             "buttonText": "Back to the collection"
           },
@@ -956,11 +956,11 @@
               {
                 "href": "/contact?product=Whipped%20Shea%20Butter%20with%20Essential%20Oils",
                 "name": "Whipped Shea Butter with Essential Oils",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "price": "35.00",
-                "imageAlt": "Whipped Shea Butter with Essential Oils",
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
                 "buttonText": "Ask about this product",
-                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+                "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care. Packaging design preview; final packaging may vary.",
                 "id": "contact?product=Whipped%20Shea%20Butter%20with%20Essential%20Oils"
               }
             ],
@@ -1052,9 +1052,9 @@
           "content": {
             "text": "Put the kettle on. Let peppermint and ginger fill your cup. While the tea cools, reach for the botanical oil or the whipped shea butter. A bright, warming sip and a soft finish on your skin, all in one unhurried ritual.",
             "title": "The Inside & Outside Ritual",
-            "eyebrow": "MERI-GOLD-ROUND \u2022 THREE-PIECE SET",
+            "eyebrow": "MERI-GOLD-ROUND • THREE-PIECE SET",
             "buttonHref": "/products/inside-outside-ritual-set",
-            "buttonText": "Shop the three-piece set \u00b7 $59.99"
+            "buttonText": "Shop the three-piece set · $59.99"
           },
           "visible": true
         },
@@ -1066,27 +1066,27 @@
               {
                 "href": "/products/belly-bloom-mint-ginger-tea",
                 "role": "For your cup",
-                "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/belly-bloom-packaging-preview.png",
                 "title": "Belly Bloom Mint & Ginger Tea",
-                "imageAlt": "Belly Bloom tea packaging design preview",
+                "imageAlt": "MERI-GOLD-ROUND Belly Bloom tea packaging design preview",
                 "buttonText": "Explore the tea",
-                "description": "Brew according to the pouch directions. Peppermint leads the first sip, followed by ginger\u2019s warming spice and a soft herbal note from lemon balm. Contains green tea."
+                "description": "Brew according to the pouch directions. Peppermint leads the first sip, followed by ginger’s warming spice and a soft herbal note from lemon balm. Contains green tea."
               },
               {
                 "role": "For external use",
-                "image": "https://rangeme.imgix.net/retail_unit/image/11511821/39c9da0a3281351e3b80b0bbb5e3dcb3-10000291691.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR%2CSave-Data&fit=max&w=960&h=960&q=100&s=40029fcab881a3347e9d40704d6924ed",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "title": "Botanical Comfort Oil",
-                "imageAlt": "Meri-Gold-Round Botanical Comfort Oil roll-on",
-                "description": "Use the roll-on as directed on its label. The oil glides over skin, with a refreshing peppermint and menthol aroma."
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
+                "description": "Use the roll-on as directed on its label. The oil glides over skin, with a refreshing peppermint and menthol aroma. Packaging design preview; final packaging may vary."
               },
               {
                 "href": "/products/whipped-shea-butter-with-essential-oils",
                 "role": "For external use",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
                 "title": "Whipped Shea Butter with Essential Oils",
-                "imageAlt": "Whipped shea butter with essential oils",
+                "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
                 "buttonText": "Explore the butter",
-                "description": "Finish with the butter wherever its label directs. Its rich, whipped texture leaves dry-feeling skin soft to the touch."
+                "description": "Finish with the butter wherever its label directs. Its rich, whipped texture leaves dry-feeling skin soft to the touch. Packaging design preview; final packaging may vary."
               }
             ],
             "title": "Inside the set"
@@ -1508,7 +1508,7 @@
           "type": "rich_text",
           "content": {
             "title": "Body Sculpting Technician",
-            "text": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.\n\nFull-time \u00b7 Indianapolis, IN\n\n$35,000 - $50,000 + Commission\n\nRequirements: Esthetician license or certification (or enrolled in program); Strong customer service skills; Ability to learn new technologies; Professional appearance and demeanor\n\nBenefits listed previously: Paid training on all equipment; Commission on services and product sales; Health insurance after 90 days; Flexible scheduling; Career advancement opportunities"
+            "text": "Perform non-invasive body contouring treatments using advanced equipment. Provide consultations and develop treatment plans for clients.\n\nFull-time · Indianapolis, IN\n\n$35,000 - $50,000 + Commission\n\nRequirements: Esthetician license or certification (or enrolled in program); Strong customer service skills; Ability to learn new technologies; Professional appearance and demeanor\n\nBenefits listed previously: Paid training on all equipment; Commission on services and product sales; Health insurance after 90 days; Flexible scheduling; Career advancement opportunities"
           },
           "visible": true,
           "settings": {}
@@ -1518,7 +1518,7 @@
           "type": "rich_text",
           "content": {
             "title": "Licensed Esthetician",
-            "text": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.\n\nFull-time \u00b7 Indianapolis, IN\n\n$32,000 - $45,000 + Commission\n\nRequirements: Valid Indiana Esthetician License; Experience with facial treatments; Knowledge of skincare products; Excellent communication skills\n\nBenefits listed previously: Competitive base pay + commission; Product discounts; Continuing education support; Flexible scheduling"
+            "text": "Provide skincare treatments, facials, and skin analysis. Recommend products and home care routines for clients.\n\nFull-time · Indianapolis, IN\n\n$32,000 - $45,000 + Commission\n\nRequirements: Valid Indiana Esthetician License; Experience with facial treatments; Knowledge of skincare products; Excellent communication skills\n\nBenefits listed previously: Competitive base pay + commission; Product discounts; Continuing education support; Flexible scheduling"
           },
           "visible": true,
           "settings": {}
@@ -1528,7 +1528,7 @@
           "type": "rich_text",
           "content": {
             "title": "Wellness Consultant",
-            "text": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.\n\nPart-time \u00b7 Indianapolis, IN\n\n$15 - $20/hour + Commission\n\nRequirements: Passion for wellness and self-care; Retail or customer service experience; Knowledge of aromatherapy and wellness products a plus; Friendly and approachable personality\n\nBenefits listed previously: Flexible hours; Product discounts; Commission on sales; Path to full-time"
+            "text": "Help clients select wellness products, provide product education, and support the retail operations of our wellness shop.\n\nPart-time · Indianapolis, IN\n\n$15 - $20/hour + Commission\n\nRequirements: Passion for wellness and self-care; Retail or customer service experience; Knowledge of aromatherapy and wellness products a plus; Friendly and approachable personality\n\nBenefits listed previously: Flexible hours; Product discounts; Commission on sales; Path to full-time"
           },
           "visible": true,
           "settings": {}
@@ -1538,7 +1538,7 @@
           "type": "rich_text",
           "content": {
             "title": "Esthetician Apprentice",
-            "text": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.\n\nFull-time \u00b7 Indianapolis, IN\n\n$14 - $16/hour during training\n\nRequirements: Enrolled in or completed esthetician program; Eager to learn; Reliable and punctual; Professional attitude\n\nBenefits listed previously: Paid on-the-job training; Path to technician role; Mentorship from experienced staff; Tuition assistance available"
+            "text": "Learn body sculpting and esthetics while earning. Perfect for Elevate for Humanity program graduates or current students.\n\nFull-time · Indianapolis, IN\n\n$14 - $16/hour during training\n\nRequirements: Enrolled in or completed esthetician program; Eager to learn; Reliable and punctual; Professional attitude\n\nBenefits listed previously: Paid on-the-job training; Path to technician role; Mentorship from experienced staff; Tuition assistance available"
           },
           "visible": true,
           "settings": {}
@@ -1628,9 +1628,10 @@
   "homepage": {
     "features": [
       {
-        "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+        "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
         "title": "Signature botanical blend",
-        "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual."
+        "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual. Packaging design preview; final packaging may vary.",
+        "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview"
       },
       {
         "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
@@ -1643,13 +1644,13 @@
         "description": "Condition the scalp and support healthy-looking shine with a botanical hair oil."
       }
     ],
-    "heroImage": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+    "heroImage": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
     "heroTitle": "Make wellness part of your everyday round",
     "heroCtaHref": "/shop",
     "heroCtaText": "Shop the Meri-Gold-Round Collection",
-    "announcement": "Meri-Gold-Round \u2014 botanical cosmetic oils, body care and non-medicated soap",
-    "heroImageAlt": "Meri-Gold-Round botanical wellness collection",
-    "heroSubtitle": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials\u2014thoughtfully presented for simple, consistent self-care."
+    "announcement": "Meri-Gold-Round — botanical cosmetic oils, body care and non-medicated soap",
+    "heroImageAlt": "MERI-GOLD-ROUND packaging design preview",
+    "heroSubtitle": "Discover the Meri-Gold-Round collection of botanical oils and skin and hair-care essentials—thoughtfully presented for simple, consistent self-care."
   },
   "products": [
     {
@@ -1708,11 +1709,11 @@
     {
       "href": "/products/meri-gold-round-signature-36-oil-wellness-blend",
       "name": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
-      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_0624fb8e-07ff-4db6-897b-2e2aef484ab8.png?v=1743415146",
+      "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
       "price": "45.00",
-      "imageAlt": "Meri-Gold-Round Signature 36-Oil Wellness Blend",
+      "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
       "buttonText": "View product",
-      "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use.",
+      "description": "A botanical blend of 36 essential oils for an aromatic self-care routine. Follow the product label for external use. Packaging design preview; final packaging may vary.",
       "compareAtPrice": "60.00",
       "id": "meri-gold-round-signature-36-oil-wellness-blend"
     },
@@ -1761,11 +1762,11 @@
     {
       "href": "/products/whipped-shea-butter-with-essential-oils",
       "name": "Whipped Shea Butter with Essential Oils",
-      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/background-editor_output_9371b886-6140-4211-97e5-fd503230880e.png?v=1743415835",
+      "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/oil-butter-packaging-preview.png",
       "price": "35.00",
-      "imageAlt": "Whipped Shea Butter with Essential Oils",
+      "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview",
       "buttonText": "View product",
-      "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care.",
+      "description": "A whipped body butter with shea butter and essential oils for cosmetic skin care. Packaging design preview; final packaging may vary.",
       "id": "whipped-shea-butter-with-essential-oils"
     },
     {
@@ -1781,10 +1782,10 @@
     {
       "href": "/products/belly-bloom-mint-ginger-tea",
       "name": "Meri-Gold-Round Belly Bloom Mint & Ginger Tea",
-      "image": "/images/meri-gold-round/belly-bloom-tea.webp",
+      "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/belly-bloom-packaging-preview.png",
       "price": "14.99",
       "category": "Botanical tea",
-      "imageAlt": "Belly Bloom Mint & Ginger Tea packaging design preview",
+      "imageAlt": "MERI-GOLD-ROUND Belly Bloom tea packaging design preview",
       "buttonText": "View product",
       "description": "A mint-forward botanical tea with peppermint, ginger, lemon balm, and green tea. Shown with a packaging design preview.",
       "id": "belly-bloom-mint-ginger-tea"
