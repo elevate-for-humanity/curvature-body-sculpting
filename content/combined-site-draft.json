@@ -59,10 +59,10 @@
                 "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual. Packaging design preview; final packaging may vary."
               },
               {
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
                 "title": "Skin-care essentials",
-                "imageAlt": "Skin-care essentials",
-                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
+                "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
+                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap. Packaging design preview; final packaging may vary."
               },
               {
                 "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
@@ -159,11 +159,11 @@
               {
                 "href": "/products/meri-gold-round-turmeric-glycerin-soap",
                 "name": "Meri-Gold-Round Turmeric Glycerin Soap",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
                 "price": "12.99",
-                "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
                 "buttonText": "View product",
-                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care. Packaging design preview; final packaging may vary.",
                 "compareAtPrice": "15.00",
                 "id": "meri-gold-round-turmeric-glycerin-soap"
               },
@@ -311,10 +311,10 @@
                 "description": "Meet the Meri-Gold-Round 36-oil wellness blend for an aromatic daily self-care ritual. Packaging design preview; final packaging may vary."
               },
               {
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
                 "title": "Skin-care essentials",
-                "imageAlt": "Skin-care essentials",
-                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
+                "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
+                "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap. Packaging design preview; final packaging may vary."
               },
               {
                 "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
@@ -626,10 +626,10 @@
           "id": "import_product_hero_4",
           "type": "hero",
           "content": {
-            "text": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
-            "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+            "text": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care. Packaging design preview; final packaging may vary.",
+            "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
             "title": "Meri-Gold-Round Turmeric Glycerin Soap",
-            "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+            "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
             "buttonHref": "/shop",
             "buttonText": "Back to the collection"
           },
@@ -646,11 +646,11 @@
               {
                 "href": "/contact?product=Meri-Gold-Round%20Turmeric%20Glycerin%20Soap",
                 "name": "Meri-Gold-Round Turmeric Glycerin Soap",
-                "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+                "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
                 "price": "12.99",
-                "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+                "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
                 "buttonText": "Ask about this product",
-                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+                "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care. Packaging design preview; final packaging may vary.",
                 "compareAtPrice": "15.00",
                 "id": "contact?product=Meri-Gold-Round%20Turmeric%20Glycerin%20Soap"
               }
@@ -1612,7 +1612,8 @@
     "accentColor": "#c99048",
     "primaryColor": "#7c3f58",
     "secondaryColor": "#6f7f56",
-    "backgroundColor": "#fffaf7"
+    "backgroundColor": "#fffaf7",
+    "logoImage": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/meri-gold-round-logo.png"
   },
   "commerce": {
     "enabled": true,
@@ -1634,9 +1635,10 @@
         "imageAlt": "MERI-GOLD-ROUND oil and shea body butter packaging design preview"
       },
       {
-        "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+        "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
         "title": "Skin-care essentials",
-        "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap."
+        "description": "Cleanse and care for skin with the Meri-Gold-Round turmeric glycerin soap. Packaging design preview; final packaging may vary.",
+        "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview"
       },
       {
         "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/image_aaab83e1-7a70-4bf5-b28a-ec718af12b9f.jpg?v=1689108396",
@@ -1698,11 +1700,11 @@
     {
       "href": "/products/meri-gold-round-turmeric-glycerin-soap",
       "name": "Meri-Gold-Round Turmeric Glycerin Soap",
-      "image": "https://cdn.shopify.com/s/files/1/0731/5105/4104/files/20210107-093903.jpg?v=1727231777",
+      "image": "https://raw.githubusercontent.com/elevate-for-humanity/curvature-body-sculpting/main/assets/packaging/soap-packaging-preview.png",
       "price": "12.99",
-      "imageAlt": "Meri-Gold-Round Turmeric Glycerin Soap",
+      "imageAlt": "MERI-GOLD-ROUND turmeric glycerin soap packaging design preview",
       "buttonText": "View product",
-      "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care.",
+      "description": "A turmeric glycerin cleansing bar with chia seeds for everyday cosmetic care. Packaging design preview; final packaging may vary.",
       "compareAtPrice": "15.00",
       "id": "meri-gold-round-turmeric-glycerin-soap"
     },
