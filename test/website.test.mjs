@@ -1,10 +1,13 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { renderWebsite } from '../src/website.mjs';
+import { renderWebsite, renderRobots, renderSitemap, publicOrigin } from '../src/website.mjs';
 const draft=JSON.parse(await readFile(new URL('../content/combined-site-draft.json',import.meta.url)));
 const catalog=JSON.parse(await readFile(new URL('../content/catalog.json',import.meta.url)));
 for(const page of draft.pages)test(`${page.slug} has content and one main heading`,()=>{const html=renderWebsite(page.slug,draft,catalog);assert.equal((html.match(/<h1>/g)||[]).length,1);assert.ok(html.includes('<main id="main">'));assert.ok(html.match(/<main[^>]*>([\s\S]*?)<\/main>/)[1].replace(/<[^>]+>/g,'').trim().length>80);assert.ok(!html.includes('undefined'));for(const link of draft.navigation)assert.ok(html.includes(`href="${link.href}"`));});
 test('request forms reach their real API adapter without placeholder redirects',()=>{for(const [path,kind] of [['/apply','application'],['/contact','contact'],['/book-appointment','appointment'],['/shop','invoice']]){const html=renderWebsite(path,draft,catalog);assert.ok(html.includes(`data-request-kind="${kind}"`));assert.ok(html.includes('role="status"'));assert.ok(html.includes('name="email"'));assert.ok(html.includes('required'));}});
 test('unknown routes do not masquerade as working pages',()=>assert.equal(renderWebsite('/missing',draft,catalog),null));
 test('historical careers and service results are not asserted as current offers',()=>{assert.ok(!renderWebsite('/careers',draft,catalog).includes('Health insurance after 90 days'));assert.ok(!renderWebsite('/services',draft,catalog).includes('Permanent fat cell reduction'));});
+test('robots.txt blocks private endpoints and advertises the sitemap',()=>{const robots=renderRobots('https://example.org');assert.ok(robots.includes('Disallow: /api/'));assert.ok(robots.includes('Sitemap: https://example.org/sitemap.xml'));});
+test('sitemap lists every public page with an absolute URL',()=>{const xml=renderSitemap('https://example.org',draft);for(const page of draft.pages)assert.ok(xml.includes(`<loc>https://example.org${page.slug==='/'?'/':page.slug}</loc>`));assert.ok(!xml.includes('/api/'));});
+test('public origin prefers configured URL and rejects untrusted host values',()=>{assert.equal(publicOrigin({PUBLIC_SITE_URL:'https://cbs.example/'},'evil.example'),'https://cbs.example');assert.equal(publicOrigin({},'cbs.example'),'https://cbs.example');assert.equal(publicOrigin({},'evil.example/<script>'),null);assert.equal(publicOrigin({PUBLIC_SITE_URL:'javascript:alert(1)'},''),null);});

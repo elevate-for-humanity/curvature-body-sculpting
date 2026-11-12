@@ -27,3 +27,17 @@ export function renderWebsite(path,draft,catalog) {
   const navigation=draft.navigation.filter(n=>pages.has(n.href));
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${escape(title)} | Curvature Body Sculpting</title><meta name="description" content="${escape(pages.get(path).seo?.description||draft.seo.description)}"><link rel="stylesheet" href="/assets/site.css"><script type="module" src="/assets/forms.mjs"></script></head><body><a class="skip" href="#main">Skip to content</a><header><a class="brand" href="/">Curvature <span>Body Sculpting</span></a><nav aria-label="Main navigation">${navigation.map(n=>`<a href="${n.href}" ${n.href===path?'aria-current="page"':''}>${escape(n.label)}</a>`).join('')}</nav></header><main id="main">${content}</main><footer><p>${escape(draft.footer.description)}</p><nav aria-label="All pages">${draft.pages.map(p=>link(p.slug,p.navLabel||p.title)).join('')}</nav><p>${link('mailto:'+draft.contact.email,draft.contact.email)} · Indianapolis, Indiana</p><p>© ${new Date().getFullYear()} Curvature Body Sculpting</p></footer></body></html>`;
 }
+
+const PRIVATE_PATHS=['/api/','/healthz','/readyz'];
+export function publicOrigin(env,host) {
+  const configured=String(env.PUBLIC_SITE_URL||'').trim().replace(/\/+$/,'');
+  if(/^https:\/\/[a-z0-9.-]+(?::\d+)?(?:\/[A-Za-z0-9._~\/-]*)?$/i.test(configured)) return configured;
+  return /^[a-z0-9.-]+(?::\d+)?$/i.test(String(host||'')) ? `https://${host}` : null;
+}
+export function renderRobots(origin) {
+  return ['User-agent: *','Allow: /',...PRIVATE_PATHS.map(path=>`Disallow: ${path}`),...(origin?[`Sitemap: ${origin}/sitemap.xml`]:[]),''].join('\n');
+}
+export function renderSitemap(origin,draft) {
+  const urls=draft.pages.filter(page=>page.seo?.noindex!==true).map(page=>`<url><loc>${escape(origin+(page.slug==='/'?'/':page.slug))}</loc></url>`).join('');
+  return `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>`;
+}

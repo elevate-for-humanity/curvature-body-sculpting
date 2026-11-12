@@ -1,7 +1,7 @@
 import { createServer } from 'node:http';
 import { readFile } from 'node:fs/promises';
 import { createBackend } from './backend.mjs';
-import { renderWebsite } from './website.mjs';
+import { renderWebsite, renderRobots, renderSitemap, publicOrigin } from './website.mjs';
 const draft = JSON.parse(await readFile(new URL('../content/combined-site-draft.json', import.meta.url),'utf8'));
 const assets = new Map(await Promise.all([['/assets/site.css','site.css','text/css'],['/assets/forms.mjs','forms.mjs','text/javascript'],['/assets/client.mjs','client.mjs','text/javascript']].map(async ([url,file,type]) => [url,{body:await readFile(new URL(file,import.meta.url)),type}])));
 
@@ -10,6 +10,13 @@ const backend = createBackend({env:process.env,catalog});
 createServer(async (req,res) => {
   try {
     const url = new URL(req.url, 'http://localhost');
+    if (['GET','HEAD'].includes(req.method) && ['/robots.txt','/sitemap.xml'].includes(url.pathname)) {
+      const origin=publicOrigin(process.env,req.headers.host);
+      const sitemap=url.pathname==='/sitemap.xml';
+      if (sitemap && !origin) { res.writeHead(404,{'Content-Type':'text/plain'}); res.end('Not found'); return; }
+      res.writeHead(200,{'Content-Type':sitemap?'application/xml; charset=utf-8':'text/plain; charset=utf-8','X-Content-Type-Options':'nosniff','Cache-Control':'public, max-age=3600'});
+      res.end(req.method==='HEAD'?'':sitemap?renderSitemap(origin,draft):renderRobots(origin));return;
+    }
     if (['GET','HEAD'].includes(req.method) && !url.pathname.startsWith('/api/') && !['/healthz','/readyz'].includes(url.pathname)) {
       const asset=assets.get(url.pathname);
       const html=asset ? null : renderWebsite(url.pathname,draft,catalog);
